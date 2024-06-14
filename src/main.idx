@@ -71,10 +71,10 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 
 \indexentry{101@\blankline|comment}{0}
 
-\indexentry{200@\textbf{Tools}!Rubeus|book{4}}{57}
-\indexentry{200@\textbf{Tools}!Impacket|book{3}}{22}
-\indexentry{200@\textbf{Tools}!Empire|book{4}}{22}
-\indexentry{200@\textbf{Tools}!Cobalt Strike|book{4}}{0}
+\indexentry{200@\textbf{Tools}!Rubeus\rate{4}|book{4}}{57}
+\indexentry{200@\textbf{Tools}!Impacket\rate{2}|book{3}}{22}
+\indexentry{200@\textbf{Tools}!Empire\rate{5}|book{4}}{22}
+\indexentry{200@\textbf{Tools}!Cobalt Strike\rate{5}|book{4}}{0}
 
 \indexentry{999@\blankline|newpage \comment}{0}
 
@@ -106,6 +106,10 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
                                      FIFTH BOOK SECTION
 *****************************************************************************************************}
 \indexentry{Kerberoasting|book{5}}{8-10}
+
+\indexentry{UAC|book{5}}{6}
+
+\indexentry{Kerberos|book{5}}{8}
 
 \indexentry{AS-REP}
 \indexentry{AS-REP!Roasting|book{5}}{11}
@@ -165,15 +169,15 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 \indexentry{Active Directory Certificate Services!Abuse|book{5}}{57}
 \indexentry{Active Directory Certificate Services!Abuse Automation|book{5}}{58}
 
-\indexentry{Exchange Priv Esc|book{5}}{59}
-\indexentry{Exchange Priv Esc!Flow|book{5}}{60}
-\indexentry{Exchange Priv Esc!SharpProxyLogon|book{5}}{61}
+\indexentry{Exchange!Priv Esc|book{5}}{59}
+\indexentry{Exchange!Priv Esc!Flow|book{5}}{60}
+\indexentry{Exchange!Priv Esc!SharpProxyLogon|book{5}}{61}
 
-\indexentry{SQL Priv Esc|book{5}}{63}
+\indexentry{SQL!Priv Esc|book{5}}{63}
 
-\indexentry{Privilege Escalation}
-\indexentry{Privilege Escalation!SQL \goto SQL Priv Esc|comment}{63}
-\indexentry{Privilege Escalation!Exchange \goto Exchange Priv Esc|comment}{59}
+\indexentry{Privilege Escalation|book{5}}{59}
+\indexentry{Privilege Escalation|book{5}}{63}
+
 
 \indexentry{Hopping the Trust|book{5}}{64-65}
 \indexentry{Hopping the Trust|book{5}}{68-69}
@@ -191,6 +195,58 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 \indexentry{Database Attacks|book{5}}{91-101}
 \indexentry{Database Attacks!Credential Hunting|book{5}}{95}
 
+\indexentry{Collection|book{5}}{106}
+\indexentry{Collection!Screen Capture|book{5}}{107}
+\indexentry{Collection!Data Staging|book{5}}{108}
+
+\indexentry{Exfiltration|book{5}}{110}
+\indexentry{Exfiltration!Unsafe|book{5}}{111-112}
+\indexentry{Exfiltration!Safe|book{5}}{113}
+
+\indexentry{Impact|book{5}}{115}
+\indexentry{Impact!Emulating Ransomware|book{5}}{116}
+
+\indexentry{Ransomware|book{5}}{116}
+
+\indexentry{Engagement Closure}
+\indexentry{Engagement Closure!Closure Phase|book{5}}{122}
+\indexentry{Engagement Closure!Actions for Red Team|book{5}}{123}
+\indexentry{Engagement Closure!Analysis and Response|book{5}}{124}
+\indexentry{Engagement Closure!Reveal|book{5}}{125}
+\indexentry{Engagement Closure!Replay|book{5}}{128}
+\indexentry{Engagement Closure!Reporting|book{5}}{130}
+\indexentry{Engagement Closure!Reporting!Tools|book{5}}{131}
+\indexentry{Engagement Closure!Remediation and Action Plan|book{5}}{136}
+\indexentry{Engagement Closure!Remediation and Action Plan!Example|book{5}}{137}
+
+\indexentry{Purple Team|book{5}}{129}
+
+\indexentry{Ghostwriter|book{5}}{131}
+
+\indexentry{PlexTrac|book{5}}{131}
+
+\indexentry{VECTR|book{5}}{131}
+\indexentry{VECTR!Test Cases|book{5}}{126}
+\indexentry{VECTR!Test Cases|book{5}}{132}
+\indexentry{VECTR!Summary|book{5}}{133}
+\indexentry{VECTR!Heat Map|book{5}}{134}
+\indexentry{VECTR!Trends|book{5}}{135}
+
+\indexentry{Retesting}
+\indexentry{Retesting!Tools}
+\indexentry{Retesting!Tools!Atomic Red Team|book{5}}{141}
+\indexentry{Retesting!Tools!APT Simulator|book{5}}{142}
+\indexentry{Retesting!Tools!Network Flight Simulator|book{5}}{143}
+\indexentry{Retesting!Tools!MITRE CALDERA|book{5}}{144}
+\indexentry{Retesting!Tools!SCYTHE|book{5}}{145}
+
+
+
+
+
+
+
+
 
 
 \comment{********************************************************************************************
@@ -203,3 +259,5 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 *****************************************************************************************************}
 % Empire as a Tool
 \indexentry{sAMAccount \goto NoPac|comment}{0}
+\indexentry{Privilege Escalation!SQL \goto SQL Priv Esc|comment}{63}
+\indexentry{Privilege Escalation!Exchange \goto Exchange Priv Esc|comment}{59}
