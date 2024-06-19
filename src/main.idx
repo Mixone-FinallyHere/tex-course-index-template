@@ -1,35 +1,4 @@
-\comment{ AUTHOR : Alexandre D'Hondt
-
-USER DEFINED COMMANDS AND SPECIAL SYNTAX
-  a. Add a blank line between paragraphs : \blankline
-       Syntax in .idx file : \indexentry{...@\blankline|comment}{0}
-
-  b. Insert a page break : (standard) \newpage
-       Syntax in .idx file : \indexentry{...@\blankline|newpage \comment}{0}
-
-  c. Fills page number with book name : \book{x}
-       Syntax in .idx file : \indexentry{...|book{x}}{...}
-          with x = nbr of the book to display in the page number with format : [BOOKNAME][x]
-          Example : SANS SEC504 book ->  504.1--1-10
-                                     =======
-  d. Insert an entry rank : \rate{x}
-       Syntax in .idx file : \indexentry{... \rate{x}|...}{...}
-          with x = # of \star's to display between item and dotfill before page number
-          
-  e. Insert an entry with special style : \indexentry{my_entry@\text..{my_entry}|...}{...}
-       Before '@' is for indexing, after is what will be displayed
-  
-  NB :
-    - ... = sorting key
-    - \blankline is defined in the .tex file and fills the line with space
-    - \rank is defined in the .tex file and uses a the forloop package to repeat x times \star
-    - comment style (behind "|") will act as a \comment command, commenting the page number "{0}"
-
-
-*****************************************************************************************************
-                                          TOPICS SECTION
-*****************************************************************************************************
- Sort entries consist of a number and a letter to be inserted in the standard 'Symbols' section }
+%                                          TOPICS SECTION
 
 \indexentry{1a@\textbf{Course Philosophy}|book{1}}{1-10}
 
@@ -47,9 +16,8 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 \indexentry{2z@\blankline|comment}{0}
 
 
-\comment{********************************************************************************************
-                                       CATEGORIES SECTION
-*****************************************************************************************************
+%                                       CATEGORIES SECTION
+
 
 \indexentry{20@\textbf{Basic Principles}!1@\#1 First principle|book{1}}{51-60}
 \indexentry{20@\textbf{Basic Principles}!2@\#2 Second principle|book{1}}{61-70}
@@ -78,33 +46,212 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 
 \indexentry{999@\blankline|newpage \comment}{0}
 
-% [example] add blank lines at the end of the 'S' section to shift the 'T' section
-%\indexentry{Szzzzzz@\blankline|comment}{0}
+%                                       FIRST BOOK SECTION
 
-\comment{********************************************************************************************
-                                       FIRST BOOK SECTION
-*****************************************************************************************************}
+\indexentry{Ethical Hacking|book{1}}{15}
+
+\indexentry{Offensive Operations|book{1}}{16}
+
+\indexentry{Vulnerability Scanning|book{1}}{17}
+
+\indexentry{Vulnerability Assessments|book{1}}{18}
+
+\indexentry{Penetration Testing|book{1}}{19}
+
+\indexentry{Red Team|book{1}}{20}
+
+\indexentry{Blue Team|book{1}}{21}
+
+\indexentry{Purple Team|book{1}}{22}
+
+\indexentry{Tabletop Exercises|book{1}}{23}
+\indexentry{Wargaming|book{1}}{23}
+
+\indexentry{Adversary!Emulation|book{1}}{24}
+\indexentry{Adversary!Simulation|book{1}}{24}
+\indexentry{Adversary!Emulation vs Simulation|book{1}}{24}
+
+\indexentry{Ethical Hacking!Maturity Model|book{1}}{25}
+
+\indexentry{Why Red Team|book{2}}{29}
+\indexentry{Why Red Team!What is Red Team|book{2}}{30}
+\indexentry{Why Red Team!Motivation|book{2}}{31}
+\indexentry{Why Red Team!Holistic View of an Org|book{2}}{32}
+\indexentry{Why Red Team!Cognitive Biases|book{2}}{33}
+\indexentry{Why Red Team!Test!People|book{2}}{34}
+\indexentry{Why Red Team!Test!Process|book{2}}{34}
+\indexentry{Why Red Team!Test!Technology|book{2}}{34}
+\indexentry{Why Red Team!Test!Assumptions|book{2}}{35}
+\indexentry{Why Red Team!Train \& Improve Blue Team|book{2}}{36}
+\indexentry{Why Red Team!Focus on Stealth|book{2}}{37}
 
 
-\comment{********************************************************************************************
-                                      SECOND BOOK SECTION
-*****************************************************************************************************}
+\indexentry{Identify Adversary|book{1}}{71}
+
+\indexentry{Gather Intelligence|book{1}}{72}
+
+\indexentry{Tactics, Techniques, and Procedures!TTPs|book{1}}{73}
+\indexentry{Tactics, Techniques, and Procedures!TTPs|book{1}}{91}
+
+\indexentry{Adversary!Profiles|book{1}}{76-77}
+\indexentry{Adversary!Emulation|book{1}}{79}
+
+\indexentry{Attack Flows|book{1}}{81}
+
+\indexentry{Planning Phase|book{1}}{87}
+\indexentry{Planning Phase!Triggers|book{1}}{88}
+\indexentry{Planning Phase!Objectives \& Scope!Objectives|book{1}}{89}
+\indexentry{Planning Phase!Objectives \& Scope!Scope|book{1}}{90}
+\indexentry{Planning Phase!Objectives \& Scope!Scenario|book{1}}{91}
+\indexentry{Planning Phase!Objectives \& Scope!TTPs|book{1}}{91}
+\indexentry{Planning Phase!Objectives \& Scope!Metrics|book{1}}{91}
+\indexentry{Planning Phase!Objectives \& Scope!End-to-End Testing Model|book{1}}{92}
+\indexentry{Planning Phase!Objectives \& Scope!Assume(d) Breach|book{1}}{93}
+\indexentry{Planning Phase!Engagement Frequency|book{1}}{94}
+\indexentry{Planning Phase!Roles \& Responsabilities!Trusted Agents|book{1}}{95}
+\indexentry{Planning Phase!Roles \& Responsabilities|book{1}}{96}
+\indexentry{Planning Phase!Roles \& Responsabilities!Governance|book{1}}{97}
+\indexentry{Planning Phase!Roles \& Responsabilities!Project Management|book{1}}{98}
+\indexentry{Planning Phase!Roles \& Responsabilities!Engagement Coordinator|book{1}}{98}
+\indexentry{Planning Phase!Time Estimations|book{1}}{99}
+\indexentry{Planning Phase!Risk Avoidance|book{1}}{100}
+\indexentry{Planning Phase!Rules of Engagement (ROE)|book{1}}{101}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!Communication Plan|book{1}}{102}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!Player Rules|book{1}}{103}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!Deconfliction|book{1}}{104}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!De-Chain|book{1}}{105}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!Breach Notification or Injects|book{1}}{106}
+\indexentry{Planning Phase!Rules of Engagement (ROE)!Pausing or Ending an Engagement|book{1}}{107}
+
+\indexentry{Execution Phase|book{1}}{113}
+\indexentry{Execution Phase!Building a Team!Skill Development|book{1}}{114}
+\indexentry{Execution Phase!Building a Team!Team Dynamics|book{1}}{115}
+\indexentry{Execution Phase!Building a Team!Team Workflow|book{1}}{116}
+\indexentry{Execution Phase!Building a Team!Team Data|book{1}}{117}
+\indexentry{Execution Phase!Building a Team!Documentation|book{1}}{118}
+\indexentry{Execution Phase!PRE-ATT\&CK|book{1}}{119}
+\indexentry{Execution Phase!Reconnaissance|book{1}}{120}
+\indexentry{Execution Phase!Reconnaissance!Passive Sources|book{1}}{121}
+\indexentry{Execution Phase!Reconnaissance!Passive Tools|book{1}}{122}
+\indexentry{Execution Phase!Reconnaissance!Active|book{1}}{123}
+\indexentry{Execution Phase!Reconnaissance!Active Tools|book{1}}{124}
+\indexentry{Execution Phase!Reconnaissance!Frameworks|book{1}}{125}
+\indexentry{Execution Phase!OSINT|book{1}}{126}
+\indexentry{Execution Phase!Information Disclosure|book{1}}{127}
+\indexentry{Execution Phase!Password Attacks|book{1}}{128}
+\indexentry{Execution Phase!Password Attacks!Stolen Credentials|book{1}}{129}
+\indexentry{Execution Phase!Password Attacks!Password Guessing|book{1}}{130}
+\indexentry{Execution Phase!Password Attacks!Password Spraying|book{1}}{131}
+\indexentry{Execution Phase!Password Attacks!Credential Stuffing|book{1}}{132}
+\indexentry{Execution Phase!Exchange Remote Access Protocols|book{1}}{133}
+\indexentry{Execution Phase!Password Attacks!Outlook Web Services Spraying|book{1}}{134}
+\indexentry{Execution Phase!Password Attacks!ADFS Password Spraying|book{1}}{135}
+\indexentry{Execution Phase!Password Attacks!Azure AD Password Spraying|book{1}}{136}
+\indexentry{Execution Phase!Password Attacks!Account Lockouts \&  Policies|book{1}}{137-139}
+\indexentry{Execution Phase!Social Engineering|book{1}}{140}
+\indexentry{Execution Phase!Social Engineering!APT32|book{1}}{141}
+\indexentry{Execution Phase!Social Engineering!Pretext|book{1}}{142}
+\indexentry{Execution Phase!Social Engineering!ChatGPT|book{1}}{143-144}
+\indexentry{Execution Phase!Social Engineering!Adversary Emulation|book{1}}{145}
+\indexentry{Execution Phase!Social Engineering!Phishing Awareness|book{1}}{146}
+\indexentry{Execution Phase!Social Engineering!Phishing for Credentials|book{1}}{147}
+\indexentry{Execution Phase!Social Engineering!Link Trackers|book{1}}{148-149}
+\indexentry{Execution Phase!Social Engineering!MFA|book{1}}{150}
+\indexentry{Execution Phase!Social Engineering!MFA Attack - evilginx2|book{1}}{151}
+\indexentry{Execution Phase!Social Engineering!Vishing|book{1}}{152}
 
 
-\comment{********************************************************************************************
-                                     THIRD BOOK SECTION
-*****************************************************************************************************}
+%                                      SECOND BOOK SECTION
+
+\indexentry{C2 Server!Listeners|book{2}}{6}
+\indexentry{C2 Server!Communications Channels|book{2}}{7}
+\indexentry{C2 Server!Communications Channels!HTTP|book{2}}{8}
+\indexentry{C2 Server!Communications Channels!HTTP Channels|book{2}}{9-10}
+\indexentry{C2 Server!Communications Channels!DNS|book{2}}{11}
+\indexentry{C2 Server!Communications Channels!Non-Cached DNS Resolution|book{2}}{12}
+\indexentry{C2 Server!Communications Channels!DNS Channels|book{2}}{13}
+\indexentry{C2 Server!Command \& Control Tiers|book{2}}{14}
+\indexentry{C2 Server!Command \& Control Tiers!Long Haul|book{2}}{15}
+\indexentry{C2 Server!Command \& Control Tiers!Short Haul|book{2}}{15}
+\indexentry{C2 Server!Command \& Control Tiers!Examples|book{2}}{16}
+\indexentry{C2 Client|book{2}}{17}
+\indexentry{C2 Client!Proxy Awareness|book{2}}{18}
+\indexentry{C2 Client!Sleep|book{2}}{19}
+\indexentry{C2 Client!Jitter|book{2}}{20}
+
+\indexentry{Red Team Tools!Commercial vs OS|book{2}}{24}
+\indexentry{Red Team Tools!C2 Matrix|book{2}}{25}
+\indexentry{Red Team Tools!Metasploit|book{2}}{26}
+\indexentry{Red Team Tools!Empire|book{2}}{27}
+\indexentry{Red Team Tools!Covenant|book{2}}{28}
+\indexentry{Red Team Tools!Sliver|book{2}}{29}
+\indexentry{Red Team Tools!Merlin|book{2}}{30}
+\indexentry{Red Team Tools!Cobalt Strike|book{2}}{32}
+\indexentry{Red Team Tools!SCYTHE|book{2}}{33}
+\indexentry{Red Team Tools!C2 Comparison|book{2}}{34}
+
+\indexentry{Cobalt Strike!Listeners|book{2}}{41}
+\indexentry{Cobalt Strike!Launchers|book{2}}{42}
+\indexentry{Cobalt Strike!Beacons|book{2}}{43}
+\indexentry{Cobalt Strike!Tasks|book{2}}{44}
+\indexentry{Cobalt Strike!Logging|book{2}}{45}
+\indexentry{Cobalt Strike!Graph|book{2}}{46}
+\indexentry{Cobalt Strike!Data|book{2}}{47}
+\indexentry{Cobalt Strike!Indicators|book{2}}{48}
+
+\indexentry{Attack Infrastructure!Standard|book{2}}{54}
+\indexentry{Attack Infrastructure!Advanced|book{2}}{55}
+\indexentry{Attack Infrastructure!RedELK|book{2}}{56}
+\indexentry{Attack Infrastructure!Functional Segregation|book{2}}{57}
+\indexentry{Attack Infrastructure!Redirectors|book{2}}{58}
+\indexentry{Attack Infrastructure!Domain Names|book{2}}{59}
+\indexentry{Attack Infrastructure!Domain Names!Considerations|book{2}}{60}
+\indexentry{Attack Infrastructure!Domain Names!Purchasing|book{2}}{61}
+\indexentry{Attack Infrastructure!Domain Names!Categorization|book{2}}{61}
+\indexentry{Attack Infrastructure!Digital Certificates|book{2}}{62}
+\indexentry{Attack Infrastructure!Cloud Providers|book{2}}{63}
+\indexentry{Attack Infrastructure!DNS!Settings for Phishing|book{2}}{64}
+\indexentry{Attack Infrastructure!DNS!Setup for Mail Services|book{2}}{65}
+\indexentry{Attack Infrastructure!*nix Mail Servers|book{2}}{66}
+\indexentry{Attack Infrastructure!Third-Party Email Hosting|book{2}}{67}
+\indexentry{Attack Infrastructure!Baseline|book{2}}{68}
+\indexentry{Attack Infrastructure!Software|book{2}}{69}
 
 
-\comment{********************************************************************************************
-                                     FOURTH BOOK SECTION
-*****************************************************************************************************}
+\indexentry{Redirectors!DNS!socat|book{2}}{94}
+\indexentry{Redirectors!DNS!IPtables|book{2}}{95}
+\indexentry{Redirectors!HTTP/S!IPtables|book{2}}{97}
+\indexentry{Redirectors!HTTP/S!socat|book{2}}{96}
+\indexentry{Redirectors!HTTP/S!mod\_rewrite|book{2}}{99}
+\indexentry{Redirectors!Comparison socat to IPtables|book{2}}{98}
+\indexentry{Redirectors!HTTP/S!Nginx|book{2}}{100}
+\indexentry{Redirectors!HTTP/S!Caddy|book{2}}{101}
+\indexentry{Redirectors!HTTP/S!Satellite|book{2}}{102}
+
+\indexentry{Domain Fronting|book{5}}{103}
+\indexentry{Domain Fronting!Headers|book{5}}{104}
+
+\indexentry{Blue Team!Evasion|book{2}}{110}
+
+%                                    THIRD BOOK SECTION
+
+\indexentry{Initial Access|book{2}}{45}
+\indexentry{Initial Access!Exploitation|book{2}}{46}
+\indexentry{Initial Access!Web Applications|book{2}}{47}
+\indexentry{Initial Access!Webshells|book{2}}{48}
+\indexentry{Initial Access!Spear Phishing!Attachment|book{2}}{49}
+\indexentry{Initial Access!Spear Phishing!Link|book{2}}{50}
+\indexentry{Initial Access!Spear Phishing!Service|book{2}}{51}
+\indexentry{Initial Access!Supply Chain Compromise	|book{2}}{52}
+\indexentry{Initial Access!Trusted Relationships|book{2}}{53}
+\indexentry{Initial Access!Hardware Additions|book{2}}{54}
+
+%                                     FOURTH BOOK SECTION
 
 
 
-\comment{********************************************************************************************
-                                     FIFTH BOOK SECTION
-*****************************************************************************************************}
+%                                     FIFTH BOOK SECTION
+
 \indexentry{Kerberoasting|book{5}}{8-10}
 
 \indexentry{UAC|book{5}}{6}
@@ -167,7 +314,7 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 \indexentry{Active Directory Certificate Services!OpenSSL|book{5}}{56}
 \indexentry{Active Directory Certificate Services!Abuse|book{5}}{55}
 \indexentry{Active Directory Certificate Services!Abuse|book{5}}{57}
-\indexentry{Active Directory Certificate Services!Abuse Automation|book{5}}{58}
+\indexentry{Active Directory Certificate Services!Abuse!Automation|book{5}}{58}
 
 \indexentry{Exchange!Priv Esc|book{5}}{59}
 \indexentry{Exchange!Priv Esc!Flow|book{5}}{60}
@@ -241,23 +388,57 @@ USER DEFINED COMMANDS AND SPECIAL SYNTAX
 \indexentry{Retesting!Tools!SCYTHE|book{5}}{145}
 
 
+%                                     SIXTH BOOK SECTION
 
 
 
+%                                      CROSS-KEYS SECTION
 
-
-
-
-
-\comment{********************************************************************************************
-                                     SIXTH BOOK SECTION
-*****************************************************************************************************}
-
-
-\comment{********************************************************************************************
-                                      CROSS-KEYS SECTION
-*****************************************************************************************************}
-% Empire as a Tool
+% Refs to other sections
 \indexentry{sAMAccount \goto NoPac|comment}{0}
 \indexentry{Privilege Escalation!SQL \goto SQL Priv Esc|comment}{63}
 \indexentry{Privilege Escalation!Exchange \goto Exchange Priv Esc|comment}{59}
+
+% Web Applications
+\indexentry{Web Applications|book{2}}{47}
+
+% Webshells
+\indexentry{Webshells|book{2}}{48}
+
+% Spear Phishing
+\indexentry{Spear Phishing|book{1}}{64}
+\indexentry{Spear Phishing|book{2}}{62}
+\indexentry{Spear Phishing!Initial Access|book{1}}{75}
+\indexentry{Spear Phishing!With Cobalt Strike|book{2}}{32}
+\indexentry{Spear Phishing!Through Attachment|book{2}}{49}
+\indexentry{Spear Phishing!Through Link|book{2}}{50}
+\indexentry{Spear Phishing!Through Service|book{2}}{51}
+
+% Supply Chain	
+\indexentry{Supply Chain Compromise|book{2}}{52}
+
+% MITRE
+\indexentry{MITRE ATT\&CK|book{1}}{119}
+\indexentry{MITRE ATT\&CK!PRE-ATT\&CK|book{1}}{119}
+
+% APTs
+\indexentry{APTs!APT28|book{3}}{53}
+\indexentry{APTs!APT3|book{1}}{44}
+\indexentry{APTs!APT32|book{1}}{141}
+
+% Known Attacks
+\indexentry{evilginx2|book{1}}{151}
+
+% Tools
+\indexentry{C2 Matrix|book{2}}{25}
+\indexentry{Metasploit|book{2}}{26}
+\indexentry{Empire|book{2}}{27}
+\indexentry{Covenant|book{2}}{28}
+\indexentry{Sliver|book{2}}{29}
+\indexentry{Merlin|book{2}}{30}
+\indexentry{Cobalt Strike|book{2}}{32}
+\indexentry{SCYTHE|book{2}}{33}
+\indexentry{Cobalt Strike|book{2}}{40-48}
+
+% Infra Tools
+\indexentry{RedELK|book{2}}{56}
