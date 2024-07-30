@@ -1,26 +1,26 @@
 \indexentry{Abuse|book{2}}{67}
-\indexentry{Accounts!Local vs Domain|book{4}}{23}
-\indexentry{Accounts!User Account Enumeration!Mental Model|book{4}}{38}
-\indexentry{Accounts!User Account Enumeration!Considerations|book{4}}{39}
-\indexentry{Accounts!User Account Enumeration!Things to Look For|book{4}}{50}
-\indexentry{Accounts!User Account Enumeration!IoCs|book{4}}{51}
-\indexentry{Accounts!User Account Enumeration!Honeypots|book{4}}{52}
-\indexentry{Accounts!User Account Enumeration!Honeypot Spotting|book{4}}{53}
-\indexentry{Accounts!User Account Enumeration!Format Conversion|book{4}}{54}
-\indexentry{Accounts!Domain User Account Enumeration!GUI|book{4}}{55}
-\indexentry{Accounts!Domain User Account Enumeration!C2s|book{4}}{56}
-\indexentry{Accounts!Service Account Enumeration|book{4}}{57}
-\indexentry{Accounts!Service Account Enumeration!Honeypots|book{4}}{58}
-\indexentry{Accounts!Service Account Enumeration!C2s|book{4}}{59}
-\indexentry{Accounts!Computer Account Enumeration!Things to Look For|book{4}}{60}
 \indexentry{Accounts!Computer Account Enumeration!Examples|book{4}}{61}
+\indexentry{Accounts!Computer Account Enumeration!Things to Look For|book{4}}{60}
 \indexentry{Accounts!Domain Computer Account Enumeration!C2s|book{4}}{62}
-\indexentry{Accounts!LAPS|book{4}}{81}
-\indexentry{Accounts!gMSA|book{4}}{85}
+\indexentry{Accounts!Domain User Account Enumeration!C2s|book{4}}{56}
+\indexentry{Accounts!Domain User Account Enumeration!GUI|book{4}}{55}
 \indexentry{Accounts!gMSA!Enumeration|book{4}}{86}
+\indexentry{Accounts!gMSA|book{4}}{85}
+\indexentry{Accounts!LAPS|book{4}}{81}
+\indexentry{Accounts!Local vs Domain|book{4}}{23}
+\indexentry{Accounts!Service Account Enumeration!C2s|book{4}}{59}
+\indexentry{Accounts!Service Account Enumeration!Honeypots|book{4}}{58}
+\indexentry{Accounts!Service Account Enumeration|book{4}}{57}
 \indexentry{Accounts!User Access|book{4}}{97}
-\indexentry{ACE!Access Control Entry|book{4}}{32}
+\indexentry{Accounts!User Account Enumeration!Considerations|book{4}}{39}
+\indexentry{Accounts!User Account Enumeration!Format Conversion|book{4}}{54}
+\indexentry{Accounts!User Account Enumeration!Honeypot Spotting|book{4}}{53}
+\indexentry{Accounts!User Account Enumeration!Honeypots|book{4}}{52}
+\indexentry{Accounts!User Account Enumeration!IoCs|book{4}}{51}
+\indexentry{Accounts!User Account Enumeration!Mental Model|book{4}}{38}
+\indexentry{Accounts!User Account Enumeration!Things to Look For|book{4}}{50}
 \indexentry{ACE!Access Control Entry!DACL|book{4}}{33}
+\indexentry{ACE!Access Control Entry|book{4}}{32}
 \indexentry{Active Directory Certificate Services!Abuse!Automation|book{5}}{58}
 \indexentry{Active Directory Certificate Services!Abuse|book{5}}{55}
 \indexentry{Active Directory Certificate Services!Abuse|book{5}}{57}
@@ -28,11 +28,6 @@
 \indexentry{Active Directory Certificate Services!OpenSSL|book{5}}{56}
 \indexentry{Active Directory Certificate Services|book{5}}{53-54}
 \indexentry{Active Directory Module|book{4}}{41}
-\indexentry{Biases|book{1}}{33}
-\indexentry{Adversary Identification|book{1}}{71}
-\indexentry{ATT\&CK Campaigns|book{1}}{80}
-\indexentry{End-to-End Testing Model|book{1}}{92}
-\indexentry{Roles \& Responsabilities|book{1}}{96}
 \indexentry{Act|book{4}}{192}
 \indexentry{Adcspwn|book{5}}{58}
 \indexentry{ADExplorer|book{4}}{48}
@@ -47,14 +42,16 @@
 \indexentry{Administration|book{4}}{66}
 \indexentry{Admins|book{5}}{16}
 \indexentry{Admins|book{5}}{80}
+\indexentry{ADSI!Remote Recon|book{4}}{105}
 \indexentry{ADSI|!Enumerationbook{4}}{40}
 \indexentry{ADSI|book{4}}{49}
-\indexentry{ADSI!Remote Recon|book{4}}{105}
 \indexentry{Adversary!Emulation vs Simulation|book{1}}{24}
 \indexentry{Adversary!Emulation|book{1}}{24}
 \indexentry{Adversary!Emulation|book{1}}{79}
 \indexentry{Adversary!Profiles|book{1}}{76-77}
 \indexentry{Adversary!Simulation|book{1}}{24}
+\indexentry{Adversary Emulation Plans|book{1}}{79}
+\indexentry{Adversary Identification|book{1}}{71}
 \indexentry{AdvFirewall|book{2}}{88}
 \indexentry{AES|book{5}}{10}
 \indexentry{AES|book{5}}{14}
@@ -70,36 +67,26 @@
 \indexentry{Alias|book{2}}{119}
 \indexentry{AllProfiles (Powershell Selector)|book{2}}{88}
 \indexentry{AlphaSOC|book{5}}{143}
-\indexentry{AMSI!amsiContext!Bypass|book{3}}{143}
-\indexentry{AMSI!amsiContext!Override|book{3}}{144}
-\indexentry{AMSI!amsiContext!Locate|book{3}}{145}
-\indexentry{AMSI!amsiContext!Replace|book{3}}{146}
 \indexentry{AMSI!amsiContext!Bypass code|book{3}}{148}
-\indexentry{AMSI|book{3}}{133}
+\indexentry{AMSI!amsiContext!Bypass|book{3}}{143}
+\indexentry{AMSI!amsiContext!Locate|book{3}}{145}
+\indexentry{AMSI!amsiContext!Override|book{3}}{144}
+\indexentry{AMSI!amsiContext!Replace|book{3}}{146}
 \indexentry{AMSI!AntiMalware Scan Interface|book{3}}{140}
-\indexentry{AMSI!Definitions|book{3}}{141}
-\indexentry{AMSI!Bypass|book{3}}{142}
-\indexentry{AMSI!Bypass!Custom|book{3}}{143}
-\indexentry{AMSI!Under the Hood|book{3}}{146}
 \indexentry{AMSI!Bypass!Creation|book{3}}{147}
+\indexentry{AMSI!Bypass!Custom|book{3}}{143}
 \indexentry{AMSI!Bypass!In Action|book{3}}{149}
 \indexentry{AMSI!Bypass!Tools|book{3}}{150}
-\indexentry{Static Analysis|book{3}}{134}
-\indexentry{Static Analysis!Bypass|book{3}}{135}
-\indexentry{Dynamic Analysis|book{3}}{137}
-\indexentry{Dynamic Analysis!Downsides|book{3}}{138}
-\indexentry{Dynamic Analysis!Bypass|book{3}}{139}
-\indexentry{Dynamic Analysis!AMSI|book{3}}{140}
-
+\indexentry{AMSI!Bypass|book{3}}{142}
+\indexentry{AMSI!Definitions|book{3}}{141}
+\indexentry{AMSI!Under the Hood|book{3}}{146}
+\indexentry{AMSI|book{3}}{133}
 \indexentry{APR|book{2}}{105}
 \indexentry{APTs!APT3|book{1}}{44}
 \indexentry{APTs!APT28|book{3}}{53}
 \indexentry{APTs!APT32|book{1}}{141}
-\indexentry{Adversary Emulation Plans|book{1}}{79}
-\indexentry{ATT\&CK Navigator|book{1}}{79}
-\indexentry{APTs!Engagement Frequency|book{1}}{94}
 \indexentry{APTs!APT Simulator|book{5}}{142}
-\indexentry{Network Flight Simulator|book{5}}{143}
+\indexentry{APTs!Engagement Frequency|book{1}}{94}
 \indexentry{ARP|book{3}}{69}
 \indexentry{ARP|book{3}}{104}
 \indexentry{ARP|book{3}}{105}
@@ -112,11 +99,8 @@
 \indexentry{ASCII|book{3}}{112}
 \indexentry{ASCII|book{3}}{145}
 \indexentry{AskTGT|book{4}}{139}
-\indexentry{execute\_assembly (C\# pragma)|book{5}}{51}
-\indexentry{invoke\_assembly (C\# pragma)|book{5}}{52}
 \indexentry{Atomic|book{5}}{140}
 \indexentry{Atomic|book{5}}{141}
-
 \indexentry{Attack Flows|book{1}}{81}
 \indexentry{Attack Infrastructure!*nix Mail Servers|book{2}}{66}
 \indexentry{Attack Infrastructure!Advanced|book{2}}{55}
@@ -135,6 +119,8 @@
 \indexentry{Attack Infrastructure!Software|book{2}}{69}
 \indexentry{Attack Infrastructure!Standard|book{2}}{54}
 \indexentry{Attack Infrastructure!Third-Party Email Hosting|book{2}}{67}
+\indexentry{ATT\&CK Campaigns|book{1}}{80}
+\indexentry{ATT\&CK Navigator|book{1}}{79}
 \indexentry{Auditing|book{5}}{101}
 \indexentry{Authority|book{4}}{21}
 \indexentry{Authority|book{4}}{120}
@@ -159,18 +145,19 @@
 \indexentry{Behaviors|book{1}}{51}
 \indexentry{Behaviors|book{1}}{66}
 \indexentry{Behaviors|book{1}}{81}
+\indexentry{Biases|book{1}}{33}
 \indexentry{Bias|book{1}}{31}
 \indexentry{Bias|book{1}}{33}
 \indexentry{Bidirectional|book{4}}{70}
 \indexentry{Binaries|book{2}}{42}
 \indexentry{Bloodhound!Cheatsheet|book{4}}{46}
-\indexentry{Bloodhound|book{4}}{45}
-\indexentry{Bloodhound!Group Policy Enumeration|book{4}}{66}
-\indexentry{Bloodhound!Group Policy Enumeration!Example|book{4}}{67}
-\indexentry{Bloodhound!LAPS|book{4}}{84}
 \indexentry{Bloodhound!gMSA Enumeration|book{4}}{86}
 \indexentry{Bloodhound!gMSA Enumeration|book{4}}{87}
+\indexentry{Bloodhound!Group Policy Enumeration!Example|book{4}}{67}
+\indexentry{Bloodhound!Group Policy Enumeration|book{4}}{66}
 \indexentry{Bloodhound!Group Policy Objects|book{4}}{110}
+\indexentry{Bloodhound!LAPS|book{4}}{84}
+\indexentry{Bloodhound|book{4}}{45}
 \indexentry{Blue Team!Evasion|book{2}}{110}
 \indexentry{Blue Team|book{1}}{21}
 \indexentry{Brute Force|book{1}}{128}
@@ -194,9 +181,9 @@
 \indexentry{C2 Server!Communications Channels!Non-Cached DNS Resolution|book{2}}{12}
 \indexentry{C2 Server!Communications Channels|book{2}}{7}
 \indexentry{C2 Server!Listeners|book{2}}{6}
+\indexentry{C2!Comparison|book{2}}{34}
 \indexentry{Caddy|book{2}}{93}
 \indexentry{Caddy|book{2}}{101}
-
 \indexentry{Cafile|book{2}}{87}
 \indexentry{Caldera|book{5}}{140}
 \indexentry{Caldera|book{5}}{144}
@@ -208,7 +195,6 @@
 \indexentry{Capable|book{5}}{52}
 \indexentry{CBEST|book{1}}{50}
 \indexentry{CBEST|book{1}}{51}
-
 \indexentry{CDN|book{2}}{103}
 \indexentry{CDN|book{2}}{104}
 \indexentry{CDN|book{2}}{105}
@@ -218,7 +204,6 @@
 \indexentry{Certificate|book{5}}{54}
 \indexentry{Certificate|book{5}}{55}
 \indexentry{Certificate|book{5}}{56}
-
 \indexentry{Certificate|book{5}}{83}
 \indexentry{Certificate|book{5}}{84}
 \indexentry{Certification|book{3}}{-1}
@@ -237,6 +222,7 @@
 \indexentry{Chain|book{1}}{32}
 \indexentry{Changes|book{5}}{16}
 \indexentry{Changes|book{5}}{75}
+\indexentry{Channel!HTTP!Example|book{2}}{10}
 \indexentry{Channel|book{2}}{4}
 \indexentry{Channel|book{2}}{7}
 \indexentry{Channel|book{2}}{9}
@@ -249,7 +235,6 @@
 \indexentry{ChatGPT|book{1}}{144}
 \indexentry{Chisel|book{2}}{76}
 \indexentry{Chisel|book{2}}{80}
-
 \indexentry{Choice|book{4}}{6}
 \indexentry{Choice|book{4}}{40}
 \indexentry{Choice|book{4}}{141}
@@ -258,30 +243,28 @@
 \indexentry{Cloud|book{2}}{53}
 \indexentry{Cloud|book{2}}{63}
 \indexentry{Cloud|book{2}}{68}
-
 \indexentry{Cloud|book{2}}{113}
 \indexentry{CLSID|book{3}}{126}
 \indexentry{CNTLM|book{2}}{76}
+\indexentry{Cobalt Strike!AS-REP|book{5}}{12}
 \indexentry{Cobalt Strike!Beacons|book{2}}{43}
 \indexentry{Cobalt Strike!Data|book{2}}{47}
+\indexentry{Cobalt Strike!DCSync|book{5}}{18}
+\indexentry{Cobalt Strike!Framework|book{2}}{40}
+\indexentry{Cobalt Strike!Golden Ticket|book{5}}{21}
 \indexentry{Cobalt Strike!Graph|book{2}}{46}
 \indexentry{Cobalt Strike!Indicators|book{2}}{48}
+\indexentry{Cobalt Strike!Kerberoasting|book{5}}{9}
 \indexentry{Cobalt Strike!Launchers|book{2}}{42}
 \indexentry{Cobalt Strike!Listeners|book{2}}{41}
 \indexentry{Cobalt Strike!Logging|book{2}}{45}
-\indexentry{Cobalt Strike!Task|book{2}}{44}
-\indexentry{Cobalt Strike|book{2}}{32}
-\indexentry{Cobalt Strike!Framework|book{2}}{40}
-\indexentry{Cobalt Strike!Kerberoasting|book{5}}{9}
-\indexentry{Cobalt Strike!AS-REP|book{5}}{12}
-\indexentry{Cobalt Strike!Silver Ticket|book{5}}{15}
-\indexentry{Cobalt Strike!DCSync|book{5}}{18}
-\indexentry{Cobalt Strike!Golden Ticket|book{5}}{21}
-\indexentry{Cobalt Strike!Unconstrained Delegation|book{5}}{31}
 \indexentry{Cobalt Strike!NoPac Attack|book{5}}{51}
 \indexentry{Cobalt Strike!sAMAccount Spoof|book{5}}{51}
 \indexentry{Cobalt Strike!Screen Capture - Screenshot|book{5}}{107}
-\indexentry{Screen Capture|book{5}}{107}
+\indexentry{Cobalt Strike!Silver Ticket|book{5}}{15}
+\indexentry{Cobalt Strike!Task|book{2}}{44}
+\indexentry{Cobalt Strike!Unconstrained Delegation|book{5}}{31}
+\indexentry{Cobalt Strike|book{2}}{32}
 \indexentry{Collection!Data Staging|book{5}}{108}
 \indexentry{Collection!Screen Capture|book{5}}{107}
 \indexentry{Collection|book{5}}{106}
@@ -291,114 +274,105 @@
 \indexentry{Commands|book{4}}{162}
 \indexentry{Commands|book{4}}{171}
 \indexentry{Commands|book{4}}{178}
+\indexentry{Communication Channels|book{2}}{7}
+\indexentry{Communication Channels|book{2}}{7}
 \indexentry{Compile|book{3}}{19}
 \indexentry{Compromised|book{1}}{93}
 \indexentry{Compromised|book{1}}{129}
-\indexentry{ComputerName (Powershell Selector)!Remote Recon|book{4}}{105}
-\indexentry{ComputerName (Powershell Selector)!Leveraging RPC|book{4}}{109}
-\indexentry{ComputerName (Powershell Selector)!GPO Correlation|book{4}}{113}
 \indexentry{ComputerName (Powershell Selector)!GPO COrrelation Reversed|book{4}}{114}
-\indexentry{ComputerName (Powershell Selector)!Session Enumeration|book{4}}{116}
-\indexentry{ComputerName (Powershell Selector)!Process Ownership!WMI|book{4}}{118}
+\indexentry{ComputerName (Powershell Selector)!GPO Correlation|book{4}}{113}
+\indexentry{ComputerName (Powershell Selector)!Leveraging RPC|book{4}}{109}
 \indexentry{ComputerName (Powershell Selector)!Process Ownership!Powershell Magic|book{4}}{119}
+\indexentry{ComputerName (Powershell Selector)!Process Ownership!WMI|book{4}}{118}
+\indexentry{ComputerName (Powershell Selector)!Remote Recon|book{4}}{105}
+\indexentry{ComputerName (Powershell Selector)!Session Enumeration|book{4}}{116}
 \indexentry{ComputerSID|book{5}}{46}
 \indexentry{Computer|book{4}}{98}
 \indexentry{Computer|book{4}}{108}
 \indexentry{Computer|book{4}}{109}
 \indexentry{Computer|book{4}}{113}
 \indexentry{Conclusion|book{4}}{193}
-\indexentry{SMB Connections|book{4}}{99}
-\indexentry{Delegation!Constrained!Kerberos Only|book{5}}{34}
-\indexentry{Delegation!Constrained!Use Any Authentication|book{5}}{35}
-\indexentry{Delegation!Constrained!S4U2PROXY Flow|book{5}}{36}
-\indexentry{Delegation!Constrained!Identifying|book{5}}{37}
-\indexentry{Delegation!Constrained!Attacking|book{5}}{38}
-\indexentry{Delegation!Constrained!S4u Kill Chain|book{5}}{39}
-\indexentry{Delegation!Resource based constrained!Abuse|book{5}}{42}
-\indexentry{Delegation!Resource based constrained!C2|book{5}}{48}
 \indexentry{Controllers|book{5}}{16}
 \indexentry{Controllers|book{5}}{25}
 \indexentry{Controllers|book{5}}{29}
 \indexentry{Controllers|book{5}}{69}
-\indexentry{PrintSpooler|book{5}}{27}
-\indexentry{krbtgt!History Addition|book{5}}{66}
-\indexentry{Exfiltration|book{5}}{110}
 \indexentry{ConvertTo (Powershell comamnd)|book{4}}{88}
-\indexentry{Channel!HTTP!Example|book{2}}{10}
 \indexentry{Covenant|book{2}}{28}
 \indexentry{Credential Discovery!Powershell|book{3}}{75}
-\indexentry{Credentials!Hijacked RDP|book{3}}{87}
 \indexentry{Credentials!Access|book{3}}{93}
-\indexentry{Credentials!Passwords|book{3}}{94}
-\indexentry{Credentials!Cleartext Files|book{3}}{95}
-\indexentry{Credentials!Unattended Install Files|book{3}}{96}
-\indexentry{Credentials!Input Capture|book{3}}{97}
-\indexentry{Credentials!Dumping|book{3}}{98}
-\indexentry{Credentials!Password Managers|book{3}}{99}
-\indexentry{Credentials!Saved Credentials|book{3}}{100}
-\indexentry{Credentials!Dumping from Memory|book{3}}{101}
-\indexentry{Credentials!Network Sniffing|book{3}}{102}
 \indexentry{Credentials!Capture NTLM!Challenge Response|book{3}}{103}
-\indexentry{CredentialsCapture NTLM!MITM SNiffing|book{3}}{105}
+\indexentry{Credentials!Cleartext Files|book{3}}{95}
+\indexentry{Credentials!Dumping from Memory|book{3}}{101}
+\indexentry{Credentials!Dumping|book{3}}{98}
+\indexentry{Credentials!Hijacked RDP|book{3}}{87}
+\indexentry{Credentials!Input Capture|book{3}}{97}
+\indexentry{Credentials!Network Sniffing|book{3}}{102}
 \indexentry{Credentials!Pass-the-Hash|book{3}}{115}
-\indexentry{Pivoting!Tools|book{2}}{76}
-\indexentry{cURL|book{2}}{83}
+\indexentry{Credentials!Password Managers|book{3}}{99}
+\indexentry{Credentials!Passwords|book{3}}{94}
+\indexentry{Credentials!Saved Credentials|book{3}}{100}
+\indexentry{Credentials!Unattended Install Files|book{3}}{96}
+\indexentry{CredentialsCapture NTLM!MITM SNiffing|book{3}}{105}
 \indexentry{cURL!User-Agent|book{2}}{116}
-\indexentry{User-Agent!Configurations|book{2}}{116}
-\indexentry{cURL!Wrapping!Logging|book{2}}{118}
 \indexentry{cURL!Wrapping!Example|book{2}}{119}
-\indexentry{Wrapping!Bypass|book{2}}{119}
+\indexentry{cURL!Wrapping!Logging|book{2}}{118}
+\indexentry{cURL|book{2}}{83}
 \indexentry{Currentversion|book{3}}{125}
-\indexentry{CVEs!CVE-2021-42287|book{5}}{49}
-\indexentry{CVEs!CVE-2021-26855|book{5}}{59}
-\indexentry{CVEs!CVE-2021-26855!ProxyLogon|book{5}}{59}
-\indexentry{CVEs!CVE-2016-5195|book{3}}{90}
 \indexentry{CVEs!CVE-2016-5195!Dirty Cow|book{3}}{90}
-\indexentry{Dirty Cow|book{3}}{90}
-\indexentry{DACL|book{4}}{32}
+\indexentry{CVEs!CVE-2016-5195|book{3}}{90}
+\indexentry{CVEs!CVE-2021-26855!ProxyLogon|book{5}}{59}
+\indexentry{CVEs!CVE-2021-26855|book{5}}{59}
+\indexentry{CVEs!CVE-2021-42287|book{5}}{49}
 \indexentry{DACL!Example|book{4}}{33}
-\indexentry{DACL!LAPS|book{4}}{81}
-\indexentry{DACL!LAPS!Access|book{4}}{84}
 \indexentry{DACL!gMSA|book{4}}{85}
+\indexentry{DACL!LAPS!Access|book{4}}{84}
+\indexentry{DACL!LAPS|book{4}}{81}
 \indexentry{DACL!Windows Remoting|book{4}}{162}
+\indexentry{DACL|book{4}}{32}
+\indexentry{Data!Emulating Ransomware|book{5}}{116}
 \indexentry{Database Attacks!Credential Hunting|book{5}}{95}
 \indexentry{Database Attacks|book{5}}{91-101}
 \indexentry{Datacenter|book{4}}{61}
 \indexentry{Data Collection|book{5}}{106}
-\indexentry{Data Staging|book{5}}{108}
-\indexentry{Data Exfiltration|book{5}}{110}
+\indexentry{Data Consolidation|book{5}}{123}
 \indexentry{Data Destruction|book{5}}{115}
 \indexentry{Data Encryption|book{5}}{115}
+\indexentry{Data Exfiltration|book{5}}{110}
 \indexentry{Data Manipulation|book{5}}{115}
-\indexentry{Data!Emulating Ransomware|book{5}}{116}
-\indexentry{Data Consolidation|book{5}}{123}
+\indexentry{Data Staging|book{5}}{108}
 \indexentry{Datetime|book{4}}{54}
-\indexentry{PetitPotam|book{5}}{28}
-\indexentry{SPN!Setting Up|book{5}}{76}
 \indexentry{dbms (SQLMap parameter)|book{5}}{98}
-\indexentry{DCOM|book{4}}{167}
-\indexentry{DCOM!Why DCOM|book{4}}{168}
+\indexentry{DCOM!C2s|book{4}}{173}
 \indexentry{DCOM!UAC Bypass|book{4}}{171}
 \indexentry{DCOM!Well-Known Objects|book{4}}{172}
-\indexentry{DCOM!C2s|book{4}}{173}
+\indexentry{DCOM!Why DCOM|book{4}}{168}
+\indexentry{DCOM|book{4}}{167}
+\indexentry{DCSync!Golden Ticket|book{5}}{20}
+\indexentry{DCSync!Persistence|book{5}}{85}
 \indexentry{DCSync!Tools!Cobalt Strike|book{5}}{18}
 \indexentry{DCSync!Tools!Empire|book{5}}{18}
 \indexentry{DCSync!Tools!Mimikatzs|book{5}}{17}
 \indexentry{DCSync|book{5}}{16}
-\indexentry{DCSync!Golden Ticket|book{5}}{20}
-\indexentry{DCSync!Persistence|book{5}}{85}
-\indexentry{Debugger!Presence|book{3}}{41}
-\indexentry{Debugger!AMSI|book{3}}{146}
 \indexentry{Debugger!AMSI!Bypass|book{3}}{148}
 \indexentry{Debugger!AMSI!Bypass|book{3}}{149}
+\indexentry{Debugger!AMSI|book{3}}{146}
+\indexentry{Debugger!Presence|book{3}}{41}
 \indexentry{Deception Technology|book{3}}{63}
 \indexentry{Deconfliction!Documenting Process|book{1}}{34}
-\indexentry{Deconfliction|book{1}}{104}
 \indexentry{Deconfliction!Pausing or Ending Engagement|book{1}}{107}
+\indexentry{Deconfliction|book{1}}{104}
+\indexentry{Delegation!Constrained!Attacking|book{5}}{38}
 \indexentry{Delegation!Constrained!C2|book{5}}{40}
+\indexentry{Delegation!Constrained!Identifying|book{5}}{37}
+\indexentry{Delegation!Constrained!Kerberos Only|book{5}}{34}
 \indexentry{Delegation!Constrained!S4U2PROXY \goto S4U2PROXY|comment}{33}
+\indexentry{Delegation!Constrained!S4U2PROXY Flow|book{5}}{36}
 \indexentry{Delegation!Constrained!S4U2SELF \goto S4U2SELF|comment}{33}
+\indexentry{Delegation!Constrained!S4u Kill Chain|book{5}}{39}
+\indexentry{Delegation!Constrained!Use Any Authentication|book{5}}{35}
 \indexentry{Delegation!Constrained|book{5}}{33}
+\indexentry{Delegation!Resource based constrained!Abuse|book{5}}{42}
+\indexentry{Delegation!Resource based constrained!C2|book{5}}{48}
 \indexentry{Delegation!Resource based constrained!C2|book{5}}{48}
 \indexentry{Delegation!Resource based constrained!Identifying|book{5}}{43-44}
 \indexentry{Delegation!Resource based constrained!Kill Chain|book{5}}{45-47}
@@ -422,65 +396,65 @@
 \indexentry{Dev|book{5}}{67}
 \indexentry{Dev|book{5}}{112}
 \indexentry{Digits|book{3}}{112}
+\indexentry{Dirty Cow|book{3}}{90}
 \indexentry{Discovery!Account Discovery|book{3}}{65}
+\indexentry{Discovery!Accounts|book{3}}{65}
+\indexentry{Discovery!CLI|book{3}}{64}
+\indexentry{Discovery!Deception|book{3}}{63}
 \indexentry{Discovery!Local Network Enumeration|book{3}}{69}
+\indexentry{Discovery!Local Networks|book{3}}{69}
+\indexentry{Discovery!OpSec|book{3}}{62}
+\indexentry{Discovery!Powershell|book{3}}{75}
 \indexentry{Discovery!Powershell|book{3}}{75}
 \indexentry{Discovery!Process Discovery|book{3}}{66}
+\indexentry{Discovery!Processes|book{3}}{66}
 \indexentry{Discovery!Security Software and Controls|book{3}}{68}
 \indexentry{Discovery!Service Discovery|book{3}}{67}
-\indexentry{Discovery!WMIC|book{3}}{71-74}
-\indexentry{Discovery|book{3}}{61}
-\indexentry{Discovery!OpSec|book{3}}{62}
-\indexentry{Discovery!Deception|book{3}}{63}
-\indexentry{Discovery!CLI|book{3}}{64}
-\indexentry{Discovery!Accounts|book{3}}{65}
-\indexentry{Discovery!Processes|book{3}}{66}
 \indexentry{Discovery!Services|book{3}}{67}
-\indexentry{Discovery!Software \& Controls|book{3}}{68}
-\indexentry{Discovery!Local Networks|book{3}}{69}
 \indexentry{Discovery!Sniffers|book{3}}{70}
+\indexentry{Discovery!Software \& Controls|book{3}}{68}
+\indexentry{Discovery!WMIC|book{3}}{71-74}
 \indexentry{Discovery!WMIC|book{3}}{71}
 \indexentry{Discovery!WMIC|book{3}}{72}
 \indexentry{Discovery!WMIC|book{3}}{73}
 \indexentry{Discovery!WMIOps|book{3}}{74}
-\indexentry{Discovery!Powershell|book{3}}{75}
+\indexentry{Discovery|book{3}}{61}
 \indexentry{Displayname|book{4}}{67}
 \indexentry{Displays|book{3}}{69}
-\indexentry{DLL!Rundll32|book{3}}{24}
-\indexentry{DLL!Search Order|book{3}}{81}
-\indexentry{DLL!Creation \& Modification|book{3}}{82}
-\indexentry{DLL!Hijack!UAC Bypass|book{3}}{84}
-\indexentry{DLL!Hijack!COM|book{3}}{126}
-\indexentry{DLL!Hijack COM: Example|book{3}}{127}
-\indexentry{DLL!AMSI|book{3}}{140}
-\indexentry{DLL!AMSI!Bypass|book{3}}{142}
 \indexentry{DLL!Active Directory Module|book{4}}{41}
-\indexentry{DLL!Loading|book{4}}{183}
+\indexentry{DLL!AMSI!Bypass|book{3}}{142}
+\indexentry{DLL!AMSI|book{3}}{140}
+\indexentry{DLL!Creation \& Modification|book{3}}{82}
+\indexentry{DLL!Hijack!COM|book{3}}{126}
+\indexentry{DLL!Hijack!UAC Bypass|book{3}}{84}
+\indexentry{DLL!Hijack COM: Example|book{3}}{127}
+\indexentry{DLL!Hijacking!Callbacks|book{4}}{186}
 \indexentry{DLL!Hijacking!Example|book{4}}{184}
 \indexentry{DLL!Hijacking!Weaponization|book{4}}{185}
-\indexentry{DLL!Hijacking!Callbacks|book{4}}{186}
 \indexentry{DLL!Lateral Movement|book{4}}{188}
+\indexentry{DLL!Loading|book{4}}{183}
+\indexentry{DLL!Rundll32|book{3}}{24}
+\indexentry{DLL!Search Order|book{3}}{81}
 \indexentry{DMZ|book{4}}{16}
-\indexentry{Communication Channels|book{2}}{7}
-\indexentry{DNS|book{2}}{11}
-\indexentry{DNS!Non-Cached|book{2}}{12}
+\indexentry{DNS!AntiMalware Bypass|book{3}}{41}
 \indexentry{DNS!Channel!Example|book{2}}{13}
 \indexentry{DNS!Cobalt Strike!Listener|book{2}}{41}
-\indexentry{DNS!Infrastructure|book{2}}{55}
-\indexentry{DNS!Phishing!Settings|book{2}}{64}
-\indexentry{DNS!Mail Services!Setup|book{2}}{65}
-\indexentry{DNS!SSHuttle!Proxy|book{2}}{81}
-\indexentry{DNS!socat|book{2}}{94}
-\indexentry{DNS!iptables|book{2}}{95}
 \indexentry{DNS!Domain Fronting!Headers|book{2}}{104}
-\indexentry{DNS!AntiMalware Bypass|book{3}}{41}
 \indexentry{DNS!Enumeration!ipconfig|book{3}}{69}
-\indexentry{DNS!Spoof!NTLM Sniffing|book{3}}{104}
-\indexentry{DNS!Spoof!NTLM Sniffing Capture|book{3}}{105}
-\indexentry{DNS!Spoof!NBNS|book{3}}{107}
-\indexentry{DNS!Spoof!NBNS Capture|book{3}}{107}
-\indexentry{DNS!Extraction|book{4}}{90}
 \indexentry{DNS!Extraction!nslookup Alternative|book{4}}{91}
+\indexentry{DNS!Extraction|book{4}}{90}
+\indexentry{DNS!Infrastructure|book{2}}{55}
+\indexentry{DNS!iptables|book{2}}{95}
+\indexentry{DNS!Mail Services!Setup|book{2}}{65}
+\indexentry{DNS!Non-Cached|book{2}}{12}
+\indexentry{DNS!Phishing!Settings|book{2}}{64}
+\indexentry{DNS!socat|book{2}}{94}
+\indexentry{DNS!Spoof!NBNS Capture|book{3}}{107}
+\indexentry{DNS!Spoof!NBNS|book{3}}{107}
+\indexentry{DNS!Spoof!NTLM Sniffing Capture|book{3}}{105}
+\indexentry{DNS!Spoof!NTLM Sniffing|book{3}}{104}
+\indexentry{DNS!SSHuttle!Proxy|book{2}}{81}
+\indexentry{DNS|book{2}}{11}
 \indexentry{Domain Fronting!Headers|book{5}}{104}
 \indexentry{Domain Fronting|book{5}}{103}
 \indexentry{Domain Persistence!Cheat Sheet|book{5}}{75}
@@ -519,7 +493,10 @@
 \indexentry{Dumping|book{3}}{93}
 \indexentry{Dumping|book{3}}{98}
 \indexentry{Dumping|book{3}}{101}
-
+\indexentry{Dynamic Analysis!AMSI|book{3}}{140}
+\indexentry{Dynamic Analysis!Bypass|book{3}}{139}
+\indexentry{Dynamic Analysis!Downsides|book{3}}{138}
+\indexentry{Dynamic Analysis|book{3}}{137}
 \indexentry{Dynamic|book{3}}{22}
 \indexentry{Dynamic|book{3}}{24}
 \indexentry{Dynamic|book{3}}{81}
@@ -529,7 +506,6 @@
 \indexentry{Dynamic|book{3}}{138}
 \indexentry{Dynamic|book{3}}{139}
 \indexentry{Dynamic|book{3}}{140}
-
 \indexentry{Eaba|book{5}}{17}
 \indexentry{Eaba|book{5}}{20}
 \indexentry{Ecrela|book{3}}{32}
@@ -552,44 +528,43 @@
 \indexentry{Email|book{3}}{45}
 \indexentry{Email|book{3}}{49}
 \indexentry{Email|book{3}}{50}
-\indexentry{Empire|book{2}}{27}
-\indexentry{C2!Comparison|book{2}}{34}
-\indexentry{Empire!SCT|book{3}}{23}
-\indexentry{Empire!Payload Testing|book{3}}{26}
-\indexentry{Empire!Enumeration!Domain User Accounts|book{4}}{56}
-\indexentry{Empire!Enumeration!Service Accounts|book{4}}{59}
-\indexentry{Empire!Enumeration!Domain Computer Accounts|book{4}}{62}
-\indexentry{Empire!Enumeration!Domain Groups|book{4}}{65}
-\indexentry{Empire!Enumeration!GPOs|book{4}}{68}
-\indexentry{Empire!Enumeration!Domain Trusts|book{4}}{71}
-\indexentry{Empire!Enumeration!Password Policy|book{4}}{76}
-\indexentry{Empire!Enumeration!Fine-Grained Password Policy|book{4}}{80}
-\indexentry{Empire!Enumeration!LAPS|book{4}}{83}
-\indexentry{Empire!Enumeration!gMSA Passwords|book{4}}{89}
-\indexentry{Empire!Who Is Running What Process?|book{4}}{121}
-\indexentry{Empire!Token Impersonation|book{4}}{128}
-\indexentry{Empire!Token Creation|book{4}}{130}
-\indexentry{Empire!Pass-the-Hash|book{4}}{135}
-\indexentry{Empire!OverPass-the-Hash|book{4}}{140}
-\indexentry{Empire!Pass-the-Ticket|book{4}}{140}
-\indexentry{Empire!Windows Remoting|book{4}}{164}
-\indexentry{Empire!WMI|book{4}}{166}
-\indexentry{Empire!DCOM|book{4}}{173}
-\indexentry{Empire!Scheduled Task|book{4}}{177}
-\indexentry{Empire!Lateral Movement|book{4}}{181}
-\indexentry{Empire!Kerberoasting|book{5}}{9}
+\indexentry{Empire!Analysis \& Response|book{5}}{124}
 \indexentry{Empire!AS-REP|book{5}}{12}
-\indexentry{Empire!Silver Ticket|book{5}}{15}
-\indexentry{Empire!Golden Ticket|book{5}}{21}
-\indexentry{Empire!Delegation!Unconstrained|book{5}}{32}
+\indexentry{Empire!DCOM|book{4}}{173}
 \indexentry{Empire!Delegation!Constrained|book{5}}{40}
 \indexentry{Empire!Delegation!Resource-Based Constrained|book{5}}{48}
-\indexentry{Empire!NoPac|book{5}}{52}
-\indexentry{Empire!sAMAccount Spoof|book{5}}{52}
+\indexentry{Empire!Delegation!Unconstrained|book{5}}{32}
+\indexentry{Empire!Enumeration!Domain Computer Accounts|book{4}}{62}
+\indexentry{Empire!Enumeration!Domain Groups|book{4}}{65}
+\indexentry{Empire!Enumeration!Domain Trusts|book{4}}{71}
+\indexentry{Empire!Enumeration!Domain User Accounts|book{4}}{56}
+\indexentry{Empire!Enumeration!Fine-Grained Password Policy|book{4}}{80}
+\indexentry{Empire!Enumeration!gMSA Passwords|book{4}}{89}
+\indexentry{Empire!Enumeration!GPOs|book{4}}{68}
+\indexentry{Empire!Enumeration!LAPS|book{4}}{83}
+\indexentry{Empire!Enumeration!Password Policy|book{4}}{76}
+\indexentry{Empire!Enumeration!Service Accounts|book{4}}{59}
 \indexentry{Empire!Exchange Privilege Escalation|book{5}}{62}
+\indexentry{Empire!Golden Ticket|book{5}}{21}
 \indexentry{Empire!Hopping the Trust|book{5}}{68}
+\indexentry{Empire!Kerberoasting|book{5}}{9}
+\indexentry{Empire!Lateral Movement|book{4}}{181}
+\indexentry{Empire!NoPac|book{5}}{52}
+\indexentry{Empire!OverPass-the-Hash|book{4}}{140}
+\indexentry{Empire!Pass-the-Hash|book{4}}{135}
+\indexentry{Empire!Pass-the-Ticket|book{4}}{140}
+\indexentry{Empire!Payload Testing|book{3}}{26}
+\indexentry{Empire!sAMAccount Spoof|book{5}}{52}
+\indexentry{Empire!Scheduled Task|book{4}}{177}
 \indexentry{Empire!Screen Capture|book{5}}{107}
-\indexentry{Empire!Analysis \& Response|book{5}}{124}
+\indexentry{Empire!SCT|book{3}}{23}
+\indexentry{Empire!Silver Ticket|book{5}}{15}
+\indexentry{Empire!Token Creation|book{4}}{130}
+\indexentry{Empire!Token Impersonation|book{4}}{128}
+\indexentry{Empire!Who Is Running What Process?|book{4}}{121}
+\indexentry{Empire!Windows Remoting|book{4}}{164}
+\indexentry{Empire!WMI|book{4}}{166}
+\indexentry{Empire|book{2}}{27}
 \indexentry{Emulating|book{5}}{105}
 \indexentry{Emulating|book{5}}{115}
 \indexentry{Emulating|book{5}}{116}
@@ -602,6 +577,7 @@
 \indexentry{Enabled|book{4}}{159}
 \indexentry{Enabled|book{4}}{162}
 \indexentry{Enabled|book{4}}{163}
+\indexentry{End-to-End Testing Model|book{1}}{92}
 \indexentry{Endpoint|book{5}}{57}
 \indexentry{Endpoint|book{5}}{60}
 \indexentry{Endpoint|book{5}}{115}
@@ -658,6 +634,7 @@
 \indexentry{Executables|book{3}}{80}
 \indexentry{Executables|book{3}}{84}
 \indexentry{Executables|book{3}}{151}
+\indexentry{execute\_assembly (C\# pragma)|book{5}}{51}
 \indexentry{Executeshellcommand|book{4}}{169}
 \indexentry{Executeshellcommand|book{4}}{170}
 \indexentry{Execute|book{5}}{9}
@@ -717,6 +694,7 @@
 \indexentry{Exercises|book{5}}{148}
 \indexentry{Exfiltration!Safe|book{5}}{113}
 \indexentry{Exfiltration!Unsafe|book{5}}{111-112}
+\indexentry{Exfiltration|book{5}}{110}
 \indexentry{Exfiltration|book{5}}{110}
 \indexentry{Exim|book{2}}{66}
 \indexentry{Fake|book{3}}{106}
@@ -785,7 +763,6 @@
 \indexentry{Ghostwriter|book{5}}{131}
 \indexentry{Given|book{5}}{41}
 \indexentry{Given|book{5}}{79}
-
 \indexentry{Given|book{5}}{108}
 \indexentry{gMSA|book{4}}{85}
 \indexentry{gMSA|book{4}}{86}
@@ -810,16 +787,16 @@
 \indexentry{Governance|book{1}}{99}
 \indexentry{Governance|book{1}}{100}
 \indexentry{Governance|book{1}}{102}
-\indexentry{GPOs|book{4}}{9}
-\indexentry{GPOs!Starter|book{4}}{10}
+\indexentry{GPOs!Bloodhound|book{4}}{45}
+\indexentry{GPOs!Conclusions|book{4}}{13}
+\indexentry{GPOs!Enumeration!C2s|book{4}}{68}
+\indexentry{GPOs!Enumeration!Example|book{4}}{67}
+\indexentry{GPOs!Enumeration|book{4}}{66}
 \indexentry{GPOs!Local Policy|book{4}}{11}
 \indexentry{GPOs!Non-Local Policy|book{4}}{12}
-\indexentry{GPOs!Conclusions|book{4}}{13}
 \indexentry{GPOs!PowerView|book{4}}{42}
-\indexentry{GPOs!Bloodhound|book{4}}{45}
-\indexentry{GPOs!Enumeration|book{4}}{66}
-\indexentry{GPOs!Enumeration!Example|book{4}}{67}
-\indexentry{GPOs!Enumeration!C2s|book{4}}{68}
+\indexentry{GPOs!Starter|book{4}}{10}
+\indexentry{GPOs|book{4}}{9}
 \indexentry{GPOs|book{4}}{106}
 \indexentry{GPOs|book{4}}{110}
 \indexentry{GPOs|book{4}}{111}
@@ -853,12 +830,10 @@
 \indexentry{Hardware|book{3}}{44}
 \indexentry{Hardware|book{3}}{45}
 \indexentry{Hardware|book{3}}{54}
-
 \indexentry{Hardware|book{3}}{97}
 \indexentry{Hardware|book{3}}{110}
 \indexentry{Hashcat|book{3}}{110}
 \indexentry{Hashcat|book{3}}{113}
-
 \indexentry{Hash|book{4}}{126}
 \indexentry{Hash|book{4}}{131}
 \indexentry{Hash|book{4}}{132}
@@ -868,7 +843,6 @@
 \indexentry{Hash|book{4}}{136}
 \indexentry{Hash|book{4}}{137}
 \indexentry{Hash|book{4}}{140}
-
 \indexentry{Hash|book{4}}{156}
 \indexentry{Hash|book{4}}{157}
 \indexentry{Hash|book{4}}{158}
@@ -892,9 +866,7 @@
 \indexentry{Hijacking|book{3}}{82}
 \indexentry{Hijacking|book{3}}{85}
 \indexentry{Hijacking|book{3}}{87}
-
 \indexentry{Hijacking|book{3}}{120}
-
 \indexentry{Hijack|book{3}}{84}
 \indexentry{Hijack|book{3}}{86}
 \indexentry{Hijack|book{3}}{103}
@@ -918,38 +890,32 @@
 \indexentry{Hopping the Trust|book{5}}{68-69}
 \indexentry{Hop|book{5}}{64}
 \indexentry{Hop|book{5}}{65}
-
 \indexentry{Hosting|book{2}}{53}
 \indexentry{Hosting|book{2}}{57}
 \indexentry{Hosting|book{2}}{67}
-
 \indexentry{Hosting|book{2}}{102}
 \indexentry{Hosts|book{2}}{48}
 \indexentry{Hosts|book{2}}{113}
 \indexentry{Hosts|book{2}}{115}
 \indexentry{HTA|book{3}}{11}
 \indexentry{HTA|book{3}}{12}
-
-\indexentry{Communication Channels|book{2}}{7}
-\indexentry{HTTP|book{2}}{8}
-\indexentry{HTTP!Channels|book{2}}{9}
-\indexentry{HTTP!Channels!Example|book{2}}{10}
-\indexentry{HTTP!Jitter|book{2}}{20}
-
-\indexentry{Listeners|book{2}}{41}
 \indexentry{HTTP!Advanced Infrastructure|book{2}}{55}
-\indexentry{HTTP!Purchase Domains \& Categorization|book{2}}{61}
-\indexentry{HTTP!ProxyChains|book{2}}{79}
+\indexentry{HTTP!Caddy|book{2}}{101}
+\indexentry{HTTP!Channels!Example|book{2}}{10}
+\indexentry{HTTP!Channels|book{2}}{9}
 \indexentry{HTTP!Chisel|book{2}}{80}
 \indexentry{HTTP!cURL|book{2}}{83}
-\indexentry{HTTP!wget|book{2}}{84}
-\indexentry{HTTP!socat|book{2}}{96}
+\indexentry{HTTP!Domain Fronting Headers|book{2}}{104}
 \indexentry{HTTP!iptables|book{2}}{97}
+\indexentry{HTTP!Jitter|book{2}}{20}
 \indexentry{HTTP!mod\_rewrite|book{2}}{99}
 \indexentry{HTTP!Nginx|book{2}}{100}
-\indexentry{HTTP!Caddy|book{2}}{101}
+\indexentry{HTTP!ProxyChains|book{2}}{79}
+\indexentry{HTTP!Purchase Domains \& Categorization|book{2}}{61}
 \indexentry{HTTP!Satellite|book{2}}{102}
-\indexentry{HTTP!Domain Fronting Headers|book{2}}{104}
+\indexentry{HTTP!socat|book{2}}{96}
+\indexentry{HTTP!wget|book{2}}{84}
+\indexentry{HTTP|book{2}}{8}
 \indexentry{Identify Adversary|book{1}}{71}
 \indexentry{Iln|book{4}}{192}
 \indexentry{Impact!Emulating Ransomware|book{5}}{116}
@@ -957,9 +923,7 @@
 \indexentry{Impersonate|book{4}}{1}
 \indexentry{Impersonate|book{4}}{128}
 \indexentry{Impersonate|book{4}}{135}
-
 \indexentry{Impersonate|book{4}}{163}
-
 \indexentry{Impersonation|book{4}}{19}
 \indexentry{Impersonation|book{4}}{34}
 \indexentry{Impersonation|book{4}}{35}
@@ -987,7 +951,6 @@
 \indexentry{Impersonation|book{4}}{140}
 \indexentry{Impersonation|book{4}}{141}
 \indexentry{Impersonation|book{4}}{142}
-
 \indexentry{Impersonation|book{4}}{163}
 \indexentry{Impersonation|book{4}}{191}
 \indexentry{Import|book{2}}{32}
@@ -997,17 +960,14 @@
 \indexentry{Indicators|book{2}}{32}
 \indexentry{Indicators|book{2}}{39}
 \indexentry{Indicators|book{2}}{48}
-
 \indexentry{Indicators|book{2}}{108}
 \indexentry{Indicators|book{2}}{110}
 \indexentry{Indicators|book{2}}{111}
-
 \indexentry{Info|book{5}}{98}
 \indexentry{Info|book{5}}{151}
 \indexentry{Infrastructure|book{2}}{-1}
 \indexentry{Initial Access!Exploitation|book{2}}{46}
 \indexentry{Initial Access!Hardware Additions|book{2}}{54}
-
 \indexentry{Initial Access!Spear Phishing!Link|book{2}}{50}
 \indexentry{Initial Access!Spear Phishing!Service|book{2}}{51}
 \indexentry{Initial Access!Supply Chain Compromise	|book{2}}{52}
@@ -1017,7 +977,6 @@
 \indexentry{Initial Access|book{2}}{45}
 \indexentry{Injection|book{4}}{126}
 \indexentry{Injection|book{4}}{142}
-
 \indexentry{Instant|book{2}}{67}
 \indexentry{Integrity|book{4}}{164}
 \indexentry{Integrity|book{4}}{186}
@@ -1044,6 +1003,7 @@
 \indexentry{Internet|book{3}}{47}
 \indexentry{Internet|book{3}}{94}
 \indexentry{Int|book{4}}{16}
+\indexentry{invoke\_assembly (C\# pragma)|book{5}}{52}
 \indexentry{Invoke|book{3}}{74}
 \indexentry{Invoke|book{3}}{75}
 \indexentry{Invoke|book{3}}{85}
@@ -1052,12 +1012,10 @@
 \indexentry{Ipconfig|book{3}}{69}
 \indexentry{Iptables|book{2}}{76}
 \indexentry{Iptables|book{2}}{85}
-
 \indexentry{Iptables|book{2}}{93}
 \indexentry{Iptables|book{2}}{95}
 \indexentry{Iptables|book{2}}{97}
 \indexentry{Iptables|book{2}}{98}
-
 \indexentry{Ipv|book{4}}{91}
 \indexentry{Javascript|book{3}}{9}
 \indexentry{Javascript|book{3}}{10}
@@ -1065,7 +1023,6 @@
 \indexentry{Javascript|book{3}}{24}
 \indexentry{Jitter|book{2}}{4}
 \indexentry{Jitter|book{2}}{20}
-
 \indexentry{Jobs|book{5}}{31}
 \indexentry{John|book{3}}{104}
 \indexentry{John|book{3}}{105}
@@ -1074,7 +1031,6 @@
 \indexentry{John|book{3}}{111}
 \indexentry{John|book{3}}{112}
 \indexentry{John|book{3}}{113}
-
 \indexentry{Kdc|book{4}}{21}
 \indexentry{Kdc|book{4}}{23}
 \indexentry{Kdc|book{4}}{24}
@@ -1083,14 +1039,12 @@
 \indexentry{Kdc|book{4}}{29}
 \indexentry{Kdc|book{4}}{30}
 \indexentry{Kdc|book{4}}{31}
-
 \indexentry{Kdc|book{4}}{136}
 \indexentry{Kerberoasting|book{5}}{4}
 \indexentry{Kerberoasting|book{5}}{8-10}
 \indexentry{Kerberoasting|book{5}}{8}
 \indexentry{Kerberoasting|book{5}}{9}
 \indexentry{Kerberoasting|book{5}}{10}
-
 \indexentry{Kerberoasting|book{5}}{76}
 \indexentry{Kerberos|book{4}}{23}
 \indexentry{Kerberos|book{4}}{24}
@@ -1100,7 +1054,6 @@
 \indexentry{Kerberos|book{4}}{29}
 \indexentry{Kerberos|book{4}}{30}
 \indexentry{Kerberos|book{4}}{31}
-
 \indexentry{Kerberos|book{4}}{126}
 \indexentry{Kerberos|book{4}}{131}
 \indexentry{Kerberos|book{4}}{137}
@@ -1133,7 +1086,6 @@
 \indexentry{Kill Chain|book{1}}{56}
 \indexentry{Kill Chain|book{1}}{57}
 \indexentry{Kill Chain|book{1}}{58}
-
 \indexentry{Kill Chain|book{1}}{63}
 \indexentry{Kill Chain|book{1}}{79}
 \indexentry{Kill Chain|book{1}}{79}
@@ -1144,6 +1096,7 @@
 \indexentry{Kill Chain|book{1}}{137}
 \indexentry{Kill Chain|book{1}}{156}
 \indexentry{Kill Chain|book{1}}{156}
+\indexentry{krbtgt!History Addition|book{5}}{66}
 \indexentry{Krbtgt|book{5}}{17}
 \indexentry{Krbtgt|book{5}}{19}
 \indexentry{Krbtgt|book{5}}{20}
@@ -1153,7 +1106,6 @@
 \indexentry{Language|book{5}}{91}
 \indexentry{Language|book{5}}{93}
 \indexentry{Language|book{5}}{94}
-
 \indexentry{Language|book{5}}{145}
 \indexentry{Laps|book{4}}{39}
 \indexentry{Laps|book{4}}{67}
@@ -1166,7 +1118,6 @@
 \indexentry{Lap|book{5}}{81}
 \indexentry{Launchers|book{2}}{39}
 \indexentry{Launchers|book{2}}{42}
-
 \indexentry{Ldap|book{3}}{73}
 \indexentry{Ldap|book{3}}{108}
 \indexentry{Legacydn|book{5}}{60}
@@ -1178,7 +1129,6 @@
 \indexentry{Letters|book{3}}{112}
 \indexentry{Letter|book{2}}{103}
 \indexentry{Level|book{4}}{23}
-
 \indexentry{Level|book{4}}{72}
 \indexentry{Level|book{4}}{73}
 \indexentry{Level|book{4}}{179}
@@ -1190,17 +1140,16 @@
 \indexentry{Links|book{5}}{0}
 \indexentry{Links|book{5}}{91}
 \indexentry{Links|book{5}}{100}
-
 \indexentry{Link|book{3}}{11}
 \indexentry{Link|book{3}}{22}
 \indexentry{Link|book{3}}{35}
 \indexentry{Link|book{3}}{40}
 \indexentry{Link|book{3}}{45}
 \indexentry{Link|book{3}}{50}
-
 \indexentry{Link|book{3}}{81}
 \indexentry{Link|book{3}}{128}
 \indexentry{Link|book{5}}{100}
+\indexentry{Listeners|book{2}}{41}
 \indexentry{Little|book{4}}{45}
 \indexentry{Little|book{4}}{53}
 \indexentry{Little|book{4}}{84}
@@ -1270,7 +1219,6 @@
 \indexentry{Mapping|book{1}}{58}
 \indexentry{Mapping|book{1}}{61}
 \indexentry{Mapping|book{1}}{74}
-
 \indexentry{Mapping|book{1}}{122}
 \indexentry{Map|book{5}}{75}
 \indexentry{Map|book{5}}{134}
@@ -1279,22 +1227,17 @@
 \indexentry{Mask|book{3}}{139}
 \indexentry{Maturity|book{1}}{14}
 \indexentry{Maturity|book{1}}{26}
-
 \indexentry{Maturity|book{1}}{94}
 \indexentry{Members|book{5}}{80}
-
 \indexentry{Members|book{5}}{128}
 \indexentry{Members|book{5}}{131}
 \indexentry{Member|book{4}}{29}
 \indexentry{Member|book{4}}{44}
 \indexentry{Merlin|book{2}}{30}
 \indexentry{Merlin|book{2}}{30}
-
 \indexentry{Metasploit|book{2}}{26}
 \indexentry{Metasploit|book{2}}{26}
-
 \indexentry{Metasploit|book{2}}{41}
-
 \indexentry{Methodology|book{3}}{78}
 \indexentry{Milgab|book{3}}{32}
 \indexentry{Mimikatz!Getting In \& Staying In|book{3}}{6}
@@ -1326,21 +1269,17 @@
 \indexentry{Mitre|book{5}}{140}
 \indexentry{Mitre|book{5}}{141}
 \indexentry{Mitre|book{5}}{144}
-
 \indexentry{Mitre|book{5}}{148}
 \indexentry{Mmc|book{4}}{167}
 \indexentry{Mmc|book{4}}{169}
 \indexentry{Mmc|book{4}}{171}
-
 \indexentry{Mod|book{2}}{93}
 \indexentry{Mod|book{2}}{99}
-
 \indexentry{Monitor|book{5}}{30}
 \indexentry{Monitor|book{5}}{31}
 \indexentry{Monitor|book{5}}{137}
 \indexentry{Msbuild|book{3}}{14}
 \indexentry{Msbuild|book{3}}{28}
-
 \indexentry{Msds|book{4}}{73}
 \indexentry{Msds|book{4}}{78}
 \indexentry{Msds|book{4}}{79}
@@ -1362,8 +1301,6 @@
 \indexentry{Mtoevemreont|book{4}}{192}
 \indexentry{Multi|book{2}}{28}
 \indexentry{Multi|book{2}}{34}
-
-
 \indexentry{Must|book{5}}{147}
 \indexentry{Myriad|book{2}}{83}
 \indexentry{Nameserver|book{2}}{12}
@@ -1373,27 +1310,24 @@
 \indexentry{Names|book{2}}{59}
 \indexentry{Names|book{2}}{60}
 \indexentry{Names|book{2}}{61}
-
 \indexentry{Names|book{2}}{111}
 \indexentry{Names|book{2}}{115}
 \indexentry{Native|book{5}}{107}
 \indexentry{Navigator|book{1}}{61}
 \indexentry{Navigator|book{1}}{78}
-
 \indexentry{Nbns|book{3}}{103}
 \indexentry{Nbns|book{3}}{106}
 \indexentry{Nbns|book{3}}{107}
 \indexentry{Netcat|book{2}}{76}
 \indexentry{Netsh|book{2}}{88}
-
 \indexentry{Netstat|book{3}}{69}
 \indexentry{Netstat|book{3}}{75}
+\indexentry{Network Flight Simulator|book{5}}{143}
 \indexentry{Network|book{5}}{106}
 \indexentry{Network|book{5}}{110}
 \indexentry{Network|book{5}}{115}
 \indexentry{Network|book{5}}{140}
 \indexentry{Network|book{5}}{143}
-
 \indexentry{Net|book{4}}{38}
 \indexentry{Net|book{4}}{99}
 \indexentry{Net|book{4}}{100}
@@ -1417,23 +1351,13 @@
 \indexentry{Nopac|book{5}}{50}
 \indexentry{Nopac|book{5}}{51}
 \indexentry{Nopac|book{5}}{52}
-
 \indexentry{Note|book{2}}{73}
 \indexentry{Notorious|book{4}}{57}
 \indexentry{Notorious|book{4}}{149}
 \indexentry{Npk|book{3}}{110}
 \indexentry{Npk|book{3}}{114}
-
 \indexentry{Nslookup|book{4}}{90}
 \indexentry{Nslookup|book{4}}{91}
-\indexentry{NTLM|book{3}}{103}
-\indexentry{NTLM|book{3}}{104}
-\indexentry{NTLM|book{3}}{105}
-\indexentry{NTLM|book{3}}{106}
-\indexentry{NTLM|book{3}}{107}
-\indexentry{NTLM|book{3}}{109}
-\indexentry{NTLM|book{3}}{113}
-\indexentry{NTLM|book{3}}{114}
 \indexentry{NTLM!AD Attacks|book{4}}{16}
 \indexentry{NTLM!AD Attacks|book{4}}{17}
 \indexentry{NTLM!AD Attacks|book{4}}{20}
@@ -1445,6 +1369,14 @@
 \indexentry{NTLM!Lateral Movement|book{4}}{136}
 \indexentry{NTLM!Lateral Movement|book{4}}{137}
 \indexentry{NTLM!Lateral Movement|book{4}}{157}
+\indexentry{NTLM|book{3}}{103}
+\indexentry{NTLM|book{3}}{104}
+\indexentry{NTLM|book{3}}{105}
+\indexentry{NTLM|book{3}}{106}
+\indexentry{NTLM|book{3}}{107}
+\indexentry{NTLM|book{3}}{109}
+\indexentry{NTLM|book{3}}{113}
+\indexentry{NTLM|book{3}}{114}
 \indexentry{NTLM|book{5}}{17}
 \indexentry{NTLM|book{5}}{57}
 \indexentry{NTLM|book{5}}{99}
@@ -1455,7 +1387,6 @@
 \indexentry{OpenSSL|book{2}}{76}
 \indexentry{OpenSSL|book{2}}{82}
 \indexentry{OpenSSL|book{2}}{87}
-
 \indexentry{OpenSSL|book{5}}{56}
 \indexentry{OpenSSL|book{5}}{113}
 \indexentry{Operatingsystem|book{4}}{61}
@@ -1486,16 +1417,6 @@
 \indexentry{Parent|book{5}}{66}
 \indexentry{Parent|book{5}}{68}
 \indexentry{Parent|book{5}}{69}
-\indexentry{Passwords|book{3}}{60}
-\indexentry{Passwords|book{3}}{68}
-\indexentry{Passwords|book{3}}{94}
-\indexentry{Passwords|book{3}}{95}
-\indexentry{Passwords|book{3}}{98}
-\indexentry{Passwords|book{3}}{99}
-\indexentry{Passwords!Persistence|book{3}}{102}
-\indexentry{Passwords!Persistence|book{3}}{110}
-\indexentry{Passwords!Persistence|book{3}}{111}
-\indexentry{Passwords!Persistence|book{3}}{115}
 \indexentry{Password!AD Attacks|book{4}}{22}
 \indexentry{Password!AD Attacks|book{4}}{25}
 \indexentry{Password!AD Attacks|book{4}}{26}
@@ -1538,6 +1459,16 @@
 \indexentry{Password!Lateral Movement|book{4}}{160}
 \indexentry{Password!Lateral Movement|book{4}}{165}
 \indexentry{Password!Lateral Movement|book{4}}{176}
+\indexentry{Passwords!Persistence|book{3}}{102}
+\indexentry{Passwords!Persistence|book{3}}{110}
+\indexentry{Passwords!Persistence|book{3}}{111}
+\indexentry{Passwords!Persistence|book{3}}{115}
+\indexentry{Passwords|book{3}}{60}
+\indexentry{Passwords|book{3}}{68}
+\indexentry{Passwords|book{3}}{94}
+\indexentry{Passwords|book{3}}{95}
+\indexentry{Passwords|book{3}}{98}
+\indexentry{Passwords|book{3}}{99}
 \indexentry{Pass|book{4}}{105}
 \indexentry{Pass|book{4}}{131}
 \indexentry{Pass|book{4}}{132}
@@ -1547,16 +1478,13 @@
 \indexentry{Pass|book{4}}{136}
 \indexentry{Pass|book{4}}{137}
 \indexentry{Pass|book{4}}{141}
-
 \indexentry{Pass|book{4}}{156}
 \indexentry{Pass|book{4}}{158}
-
 \indexentry{Pausing|book{1}}{86}
 \indexentry{Pausing|book{1}}{107}
 \indexentry{Payload|book{5}}{86}
 \indexentry{Payload|book{5}}{100}
 \indexentry{Payload|book{5}}{111}
-
 \indexentry{Peer|book{2}}{7}
 \indexentry{Peer|book{2}}{32}
 \indexentry{Peer|book{2}}{46}
@@ -1574,10 +1502,10 @@
 \indexentry{Permissions|book{3}}{83}
 \indexentry{Permissions|book{3}}{88}
 \indexentry{Permissions|book{3}}{89}
-
 \indexentry{Permissions|book{3}}{98}
 \indexentry{PetitPotam|book{4}}{28}
 \indexentry{Petitpotam|book{5}}{28}
+\indexentry{PetitPotam|book{5}}{28}
 \indexentry{Petitpotam|book{5}}{30}
 \indexentry{Phishing|book{3}}{35}
 \indexentry{Phishing|book{3}}{40}
@@ -1586,7 +1514,6 @@
 \indexentry{Phishing|book{3}}{49}
 \indexentry{Phishing|book{3}}{50}
 \indexentry{Phishing|book{3}}{51}
-
 \indexentry{Phishing|book{4}}{50}
 \indexentry{Phishing|book{4}}{97}
 \indexentry{Phishing|book{4}}{150}
@@ -1597,10 +1524,10 @@
 \indexentry{Physical|book{3}}{34}
 \indexentry{Physical|book{3}}{38}
 \indexentry{Physical|book{3}}{54}
-
 \indexentry{Physical|book{3}}{97}
 \indexentry{Ping|book{3}}{70}
 \indexentry{Pipe|book{4}}{178}
+\indexentry{Pivoting!Tools|book{2}}{76}
 \indexentry{Pivoting|book{2}}{2}
 \indexentry{Pivoting|book{2}}{3}
 \indexentry{Pivoting|book{2}}{22}
@@ -1615,7 +1542,6 @@
 \indexentry{Pivoting|book{2}}{74}
 \indexentry{Pivoting|book{2}}{75}
 \indexentry{Pivoting|book{2}}{76}
-
 \indexentry{Pivoting|book{2}}{90}
 \indexentry{Pivoting|book{2}}{91}
 \indexentry{Pivoting|book{2}}{92}
@@ -1668,7 +1594,6 @@
 \indexentry{Policy|book{4}}{10}
 \indexentry{Policy|book{4}}{11}
 \indexentry{Policy|book{4}}{12}
-
 \indexentry{Policy|book{4}}{39}
 \indexentry{Policy|book{4}}{47}
 \indexentry{Policy|book{4}}{66}
@@ -1722,10 +1647,8 @@
 \indexentry{Powershell|book{5}}{108}
 \indexentry{Powerupsql|book{5}}{91}
 \indexentry{Powerupsql|book{5}}{101}
-
 \indexentry{Powerup|book{3}}{85}
 \indexentry{Powerup|book{3}}{86}
-
 \indexentry{Powerview|book{4}}{24}
 \indexentry{Powerview|book{4}}{40}
 \indexentry{PowerView|book{4}}{42}
@@ -1759,6 +1682,7 @@
 \indexentry{Previous|book{4}}{126}
 \indexentry{PrintSpooler!PetitPotam|book{5}}{28}
 \indexentry{PrintSpooler|book{5}}{27}
+\indexentry{PrintSpooler|book{5}}{27}
 \indexentry{Privilege Escalation!Exchange \goto Exchange Priv Esc|comment}{59}
 \indexentry{Privilege Escalation!SQL \goto SQL Priv Esc|comment}{63}
 \indexentry{Privilege Escalation|book{5}}{59}
@@ -1778,7 +1702,6 @@
 \indexentry{Process|book{4}}{119}
 \indexentry{Process|book{4}}{120}
 \indexentry{Process|book{4}}{121}
-
 \indexentry{Process|book{4}}{126}
 \indexentry{Process|book{4}}{127}
 \indexentry{Process|book{4}}{128}
@@ -1788,7 +1711,6 @@
 \indexentry{Process|book{4}}{135}
 \indexentry{Process|book{4}}{140}
 \indexentry{Process|book{4}}{142}
-
 \indexentry{Process|book{4}}{148}
 \indexentry{Process|book{4}}{163}
 \indexentry{Process|book{4}}{165}
@@ -1826,10 +1748,8 @@
 \indexentry{Protocol|book{5}}{110}
 \indexentry{Proxychains|book{2}}{76}
 \indexentry{Proxychains|book{2}}{79}
-
 \indexentry{Proxy|book{2}}{4}
 \indexentry{Proxy|book{2}}{18}
-
 \indexentry{Proxy|book{2}}{27}
 \indexentry{Proxy|book{2}}{41}
 \indexentry{Proxy|book{2}}{76}
@@ -1856,13 +1776,11 @@
 \indexentry{Purple|book{1}}{22}
 \indexentry{Purple|book{1}}{43}
 \indexentry{Purple|book{1}}{49}
-
 \indexentry{Purple|book{1}}{94}
 \indexentry{Purple|book{5}}{121}
 \indexentry{Purple|book{5}}{122}
 \indexentry{Purple|book{5}}{124}
 \indexentry{Purple|book{5}}{129}
-
 \indexentry{Purple|book{5}}{148}
 \indexentry{Pwneip|book{3}}{1}
 \indexentry{Pwneip|book{3}}{24}
@@ -1872,7 +1790,6 @@
 \indexentry{Pwnmachine|book{5}}{47}
 \indexentry{Pyramid|book{1}}{64}
 \indexentry{Pyramid|book{1}}{65}
-
 \indexentry{Queries|book{2}}{12}
 \indexentry{Queries|book{2}}{13}
 \indexentry{Queries|book{2}}{81}
@@ -1880,11 +1797,9 @@
 \indexentry{Ransomware|book{5}}{105}
 \indexentry{Ransomware|book{5}}{116}
 \indexentry{Ransomware|book{5}}{116}
-
 \indexentry{Rdp|book{3}}{66}
 \indexentry{Rdp|book{3}}{67}
 \indexentry{Rdp|book{3}}{87}
-
 \indexentry{Rdp|book{3}}{101}
 \indexentry{Rdp|book{4}}{9}
 \indexentry{Rdp|book{4}}{63}
@@ -1910,9 +1825,8 @@
 \indexentry{Record|book{2}}{12}
 \indexentry{Record|book{2}}{65}
 \indexentry{Redelk|book{2}}{53}
-\indexentry{Redelk|book{2}}{56}
 \indexentry{RedELK|book{2}}{56}
-
+\indexentry{Redelk|book{2}}{56}
 \indexentry{Redirectors!Comparison socat to IPtables|book{2}}{98}
 \indexentry{Redirectors!DNS!IPtables|book{2}}{95}
 \indexentry{Redirectors!DNS!socat|book{2}}{94}
@@ -1955,10 +1869,8 @@
 \indexentry{Replay|book{5}}{122}
 \indexentry{Replay|book{5}}{124}
 \indexentry{Replay|book{5}}{128}
-
 \indexentry{Rerdiroectlo|book{2}}{124}
 \indexentry{Reset|book{5}}{79}
-
 \indexentry{Resource|book{5}}{22}
 \indexentry{Resource|book{5}}{41}
 \indexentry{Resource|book{5}}{42}
@@ -1966,13 +1878,11 @@
 \indexentry{Resource|book{5}}{45}
 \indexentry{Resource|book{5}}{48}
 \indexentry{Resource|book{5}}{65}
-
 \indexentry{Resource|book{5}}{111}
 \indexentry{Resource|book{5}}{115}
 \indexentry{Responder|book{3}}{103}
 \indexentry{Responder|book{3}}{108}
 \indexentry{Responder|book{3}}{109}
-
 \indexentry{Response|book{4}}{26}
 \indexentry{Response|book{4}}{29}
 \indexentry{Response|book{4}}{31}
@@ -2006,7 +1916,6 @@
 \indexentry{Retesting|book{5}}{143}
 \indexentry{Retesting|book{5}}{144}
 \indexentry{Retesting|book{5}}{145}
-
 \indexentry{Retesting|book{5}}{147}
 \indexentry{Retesting|book{5}}{149}
 \indexentry{Retesting}
@@ -2014,7 +1923,7 @@
 \indexentry{Roasting|book{5}}{10}
 \indexentry{Roasting|book{5}}{11}
 \indexentry{Roasting|book{5}}{12}
-
+\indexentry{Roles \& Responsabilities|book{1}}{96}
 \indexentry{Root|book{3}}{46}
 \indexentry{Root|book{3}}{60}
 \indexentry{Root|book{3}}{70}
@@ -2092,7 +2001,6 @@
 \indexentry{Running|book{4}}{119}
 \indexentry{Running|book{4}}{120}
 \indexentry{Running|book{4}}{121}
-
 \indexentry{Running|book{4}}{130}
 \indexentry{Running|book{4}}{140}
 \indexentry{Running|book{4}}{141}
@@ -2111,7 +2019,6 @@
 \indexentry{sAMAccount \goto NoPac|comment}{0}
 \indexentry{Satellite|book{2}}{93}
 \indexentry{Satellite|book{2}}{102}
-
 \indexentry{Scanning|book{1}}{14}
 \indexentry{Scanning|book{1}}{15}
 \indexentry{Scanning|book{1}}{17}
@@ -2133,9 +2040,9 @@
 \indexentry{Schtasks|book{3}}{124}
 \indexentry{Schtasks|book{4}}{175}
 \indexentry{Schtasks|book{4}}{177}
+\indexentry{Screen Capture|book{5}}{107}
 \indexentry{Screen|book{5}}{106}
 \indexentry{Screen|book{5}}{107}
-
 \indexentry{Scripting|book{2}}{88}
 \indexentry{Scripting|book{3}}{9}
 \indexentry{Scripting|book{3}}{10}
@@ -2149,11 +2056,10 @@
 \indexentry{Scythe|book{1}}{65}
 \indexentry{Scythe|book{1}}{79}
 \indexentry{Scythe|book{2}}{31}
-\indexentry{Scythe|book{2}}{33}
 \indexentry{SCYTHE|book{2}}{33}
+\indexentry{Scythe|book{2}}{33}
 \indexentry{Scythe|book{5}}{140}
 \indexentry{Scythe|book{5}}{145}
-
 \indexentry{Sdbytes|book{5}}{46}
 \indexentry{Seconds|book{2}}{20}
 \indexentry{Secret|book{4}}{28}
@@ -2161,7 +2067,6 @@
 \indexentry{Section|book{4}}{193}
 \indexentry{Segmentation|book{2}}{72}
 \indexentry{Segmentation|book{2}}{74}
-
 \indexentry{Sendmail|book{2}}{66}
 \indexentry{Sensitive|book{1}}{11}
 \indexentry{Sensitive|book{1}}{117}
@@ -2195,7 +2100,6 @@
 \indexentry{Session|book{3}}{69}
 \indexentry{Session|book{3}}{81}
 \indexentry{Session|book{3}}{87}
-
 \indexentry{Session|book{3}}{102}
 \indexentry{Session|book{3}}{115}
 \indexentry{Session|book{4}}{23}
@@ -2251,10 +2155,9 @@
 \indexentry{Sharprdp|book{4}}{160}
 \indexentry{Sharpup|book{3}}{20}
 \indexentry{Sharpup|book{3}}{86}
-
 \indexentry{Sharpview|book{4}}{40}
-\indexentry{Sharpview|book{4}}{43}
 \indexentry{SharpView|book{4}}{43}
+\indexentry{Sharpview|book{4}}{43}
 \indexentry{Sharpview|book{4}}{59}
 \indexentry{Sharpview|book{4}}{62}
 \indexentry{Sharpview|book{4}}{65}
@@ -2295,25 +2198,21 @@
 \indexentry{Silver|book{5}}{15}
 \indexentry{Silver|book{5}}{19}
 \indexentry{Silver|book{5}}{20}
-
 \indexentry{Simulator|book{5}}{140}
 \indexentry{Simulator|book{5}}{142}
 \indexentry{Simulator|book{5}}{143}
-
 \indexentry{Singapore|book{1}}{50}
 \indexentry{Singapore|book{1}}{53}
-
 \indexentry{Ski|book{2}}{119}
 \indexentry{Sleep|book{2}}{4}
 \indexentry{Sleep|book{2}}{14}
 \indexentry{Sleep|book{2}}{16}
 \indexentry{Sleep|book{2}}{19}
 \indexentry{Sleep|book{2}}{20}
-
 \indexentry{Sleep|book{2}}{40}
 \indexentry{Sliver|book{2}}{29}
 \indexentry{Sliver|book{2}}{29}
-
+\indexentry{SMB Connections|book{4}}{99}
 \indexentry{Smb|book{3}}{103}
 \indexentry{Smb|book{3}}{106}
 \indexentry{Smb|book{3}}{107}
@@ -2321,12 +2220,10 @@
 \indexentry{Socat|book{2}}{76}
 \indexentry{Socat|book{2}}{86}
 \indexentry{Socat|book{2}}{87}
-
 \indexentry{Socat|book{2}}{93}
 \indexentry{Socat|book{2}}{94}
 \indexentry{Socat|book{2}}{96}
 \indexentry{Socat|book{2}}{98}
-
 \indexentry{Socat|book{5}}{113}
 \indexentry{Social|book{3}}{36}
 \indexentry{Social|book{3}}{38}
@@ -2352,12 +2249,12 @@
 \indexentry{Software|book{4}}{184}
 \indexentry{Spam|book{2}}{60}
 \indexentry{Spear Phishing!Initial Access|book{1}}{75}
-
 \indexentry{Spear Phishing!Through Link|book{2}}{50}
 \indexentry{Spear Phishing!Through Service|book{2}}{51}
 \indexentry{Spear Phishing!With Cobalt Strike|book{2}}{32}
 \indexentry{Spear Phishing|book{1}}{64}
 \indexentry{Spear Phishing|book{2}}{62}
+\indexentry{SPN!Setting Up|book{5}}{76}
 \indexentry{Spoof|book{3}}{103}
 \indexentry{Spoof|book{3}}{104}
 \indexentry{Spoof|book{3}}{106}
@@ -2367,7 +2264,6 @@
 \indexentry{SQLmap|book{5}}{91}
 \indexentry{SQLmap|book{5}}{97}
 \indexentry{SQLmap|book{5}}{98}
-
 \indexentry{SQL|book{5}}{63}
 \indexentry{SQL|book{5}}{91}
 \indexentry{SQL|book{5}}{93}
@@ -2377,10 +2273,8 @@
 \indexentry{SQL|book{5}}{99}
 \indexentry{SQL|book{5}}{100}
 \indexentry{SQL|book{5}}{101}
-
 \indexentry{SSHUTTLE|book{2}}{76}
 \indexentry{SSHUTTLE|book{2}}{81}
-
 \indexentry{SSH|book{2}}{16}
 \indexentry{SSH|book{2}}{76}
 \indexentry{SSH|book{2}}{77}
@@ -2388,7 +2282,6 @@
 \indexentry{SSH|book{2}}{79}
 \indexentry{SSH|book{2}}{83}
 \indexentry{SSH|book{2}}{84}
-
 \indexentry{SSH|book{5}}{5}
 \indexentry{SSH|book{5}}{108}
 \indexentry{SSH|book{5}}{113}
@@ -2401,7 +2294,8 @@
 \indexentry{Stands|book{4}}{175}
 \indexentry{Starter|book{4}}{9}
 \indexentry{Starter|book{4}}{10}
-
+\indexentry{Static Analysis!Bypass|book{3}}{135}
+\indexentry{Static Analysis|book{3}}{134}
 \indexentry{Stealing|book{3}}{93}
 \indexentry{Steals|book{4}}{134}
 \indexentry{Steal|book{4}}{120}
@@ -2431,13 +2325,11 @@
 \indexentry{Subject|book{5}}{55}
 \indexentry{Subnet|book{2}}{81}
 \indexentry{Sudo|book{3}}{88}
-
 \indexentry{Supply Chain Compromise|book{2}}{52}
 \indexentry{Supply|book{3}}{41}
 \indexentry{Supply|book{3}}{44}
 \indexentry{Supply|book{3}}{45}
 \indexentry{Supply|book{3}}{52}
-
 \indexentry{Svchost|book{4}}{117}
 \indexentry{Svchost|book{4}}{119}
 \indexentry{Svchost|book{4}}{120}
@@ -2465,7 +2357,6 @@
 \indexentry{Task|book{2}}{39}
 \indexentry{Task|book{2}}{44}
 \indexentry{Task|book{2}}{45}
-
 \indexentry{TCP|book{1}}{77}
 \indexentry{TCP|book{1}}{132}
 \indexentry{TCP|book{2}}{7}
@@ -2489,7 +2380,6 @@
 \indexentry{Threatsims|book{2}}{119}
 \indexentry{Tiber|book{1}}{50}
 \indexentry{Tiber|book{1}}{52}
-
 \indexentry{Tiber|book{1}}{67}
 \indexentry{Tiber|book{1}}{95}
 \indexentry{Ticket|book{4}}{27}
@@ -2526,11 +2416,9 @@
 \indexentry{Tmp|book{2}}{82}
 \indexentry{Tokenvator|book{4}}{120}
 \indexentry{Tokenvator|book{4}}{121}
-
 \indexentry{Token|book{4}}{20}
 \indexentry{Token|book{4}}{34}
 \indexentry{Token|book{4}}{34}
-
 \indexentry{Token|book{4}}{117}
 \indexentry{Token|book{4}}{120}
 \indexentry{Token|book{4}}{126}
@@ -2548,13 +2436,11 @@
 \indexentry{Token|book{4}}{135}
 \indexentry{Token|book{4}}{138}
 \indexentry{Token|book{4}}{140}
-
 \indexentry{Token|book{4}}{163}
 \indexentry{Token|book{4}}{163}
 \indexentry{Toolkit|book{5}}{101}
 \indexentry{Toolset|book{2}}{31}
 \indexentry{Trackers|book{1}}{148}
-
 \indexentry{Tracker|book{1}}{148}
 \indexentry{Tracker|book{1}}{149}
 \indexentry{Tracking|book{1}}{81}
@@ -2607,7 +2493,6 @@
 \indexentry{Trusted|book{3}}{44}
 \indexentry{Trusted|book{3}}{45}
 \indexentry{Trusted|book{3}}{53}
-
 \indexentry{Trusted|book{4}}{-1}
 \indexentry{Trusts|book{4}}{4}
 \indexentry{Trusts|book{4}}{14}
@@ -2621,7 +2506,6 @@
 \indexentry{Trust|book{4}}{15}
 \indexentry{Trust|book{4}}{16}
 \indexentry{Trust|book{4}}{17}
-
 \indexentry{Trust|book{4}}{37}
 \indexentry{Trust|book{4}}{69}
 \indexentry{Trust|book{4}}{70}
@@ -2633,7 +2517,6 @@
 \indexentry{Trust|book{5}}{67}
 \indexentry{Trust|book{5}}{68}
 \indexentry{Trust|book{5}}{69}
-
 \indexentry{Trust|book{5}}{82}
 \indexentry{Trust|book{5}}{91}
 \indexentry{Trust|book{5}}{100}
@@ -2645,7 +2528,6 @@
 \indexentry{TTPs|book{1}}{66}
 \indexentry{TTPs|book{1}}{73}
 \indexentry{TTPs|book{1}}{74}
-
 \indexentry{TTPs|book{1}}{88}
 \indexentry{TTPs|book{1}}{90}
 \indexentry{TTPs|book{1}}{91}
@@ -2666,7 +2548,6 @@
 \indexentry{UDP|book{2}}{98}
 \indexentry{Unattended|book{3}}{95}
 \indexentry{Unattended|book{3}}{96}
-
 \indexentry{Unconstrained|book{5}}{22}
 \indexentry{Unconstrained|book{5}}{23}
 \indexentry{Unconstrained|book{5}}{24}
@@ -2691,7 +2572,7 @@
 \indexentry{USB|book{3}}{34}
 \indexentry{USB|book{3}}{37}
 \indexentry{USB|book{3}}{44}
-
+\indexentry{User-Agent!Configurations|book{2}}{116}
 \indexentry{Username|book{5}}{17}
 \indexentry{Username|book{5}}{20}
 \indexentry{Username|book{5}}{44}
@@ -2727,7 +2608,6 @@
 \indexentry{VPN|book{2}}{105}
 \indexentry{VPN|book{2}}{108}
 \indexentry{VPN|book{2}}{121}
-
 \indexentry{Vulnerability Assessments|book{1}}{18}
 \indexentry{Vulnerability Scanning|book{1}}{17}
 \indexentry{Vulnerability|book{1}}{14}
@@ -2747,10 +2627,8 @@
 \indexentry{Wargaming|book{1}}{23}
 \indexentry{Web Applications|book{2}}{47}
 \indexentry{Webshells|book{2}}{48}
-
 \indexentry{wget|book{2}}{76}
 \indexentry{wget|book{2}}{84}
-
 \indexentry{wget|book{2}}{116}
 \indexentry{whoami|book{4}}{24}
 \indexentry{whoami|book{4}}{25}
@@ -2761,7 +2639,6 @@
 \indexentry{Why Red Team!Focus on Stealth|book{2}}{37}
 \indexentry{Why Red Team!Holistic View of an Org|book{2}}{32}
 \indexentry{Why Red Team!Motivation|book{2}}{31}
-
 \indexentry{Why Red Team!Test!People|book{2}}{34}
 \indexentry{Why Red Team!Test!Process|book{2}}{34}
 \indexentry{Why Red Team!Test!Technology|book{2}}{34}
@@ -2773,25 +2650,22 @@
 \indexentry{WinRM|book{4}}{161}
 \indexentry{WinRM|book{4}}{162}
 \indexentry{WinRM|book{4}}{163}
+\indexentry{WMI!Event Subscription|book{3}}{128}
+\indexentry{WMI!Persistence|book{3}}{120}
+\indexentry{WMI!Powershell|book{3}}{75}
+\indexentry{WMI!WMIOps|book{3}}{74}
 \indexentry{WMIC!Account Discovery|book{3}}{65}
-\indexentry{WMIC!Process Discovery|book{3}}{66}
-\indexentry{WMIC!Service Discovery|book{3}}{67}
 \indexentry{WMIC!Discovery|book{3}}{71}
 \indexentry{WMIC!Discovery|book{3}}{72}
 \indexentry{WMIC!Discovery|book{3}}{73}
-
 \indexentry{WMIC!Path Hijacking|book{3}}{80}
+\indexentry{WMIC!Process Discovery|book{3}}{66}
+\indexentry{WMIC!Service Discovery|book{3}}{67}
 \indexentry{WMIC!Weak File Perms|book{3}}{82}
 \indexentry{WMIC|book{4}}{165}
 \indexentry{WMI|book{3}}{20}
-\indexentry{WMI!WMIOps|book{3}}{74}
-\indexentry{WMI!Powershell|book{3}}{75}
-\indexentry{WMI!Persistence|book{3}}{120}
-\indexentry{WMI!Event Subscription|book{3}}{128}
-
 \indexentry{WMI|book{4}}{117}
 \indexentry{WMI|book{4}}{118}
-
 \indexentry{WMI|book{4}}{154}
 \indexentry{WMI|book{4}}{166}
 \indexentry{WMI|book{4}}{168}
@@ -2799,5 +2673,6 @@
 \indexentry{WMI|book{4}}{185}
 \indexentry{WMI|book{4}}{186}
 \indexentry{WMI|book{4}}{187}
+\indexentry{Wrapping!Bypass|book{2}}{119}
 \indexentry{XML|book{3}}{14}
 \indexentry{XML|book{3}}{96}
